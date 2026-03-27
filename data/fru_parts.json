@@ -1005,21 +1005,21 @@
     "cru_id": "2",
     "description": "7200RPM 320GB Toshiba AQUARIUS-C Slim-320",
     "model": "X240",
-    "category": "04X3807 2 5400RPM 1TB WD ML500M-1000"
+    "category": "General"
   },
   {
     "fru_pn": "04X3809",
     "cru_id": "2",
     "description": "7200RPM 500GB Toshiba AQUARIUS-C Slim-500",
     "model": "X240",
-    "category": "04X3807 2 5400RPM 1TB WD ML500M-1000"
+    "category": "General"
   },
   {
     "fru_pn": "04X4500",
     "cru_id": "2",
     "description": "7200RPM Limited OPAL 500GB 7mm AF 6Gb/s HGST JAGUAR-C7LO-500",
     "model": "X240",
-    "category": "04X3837 2 7200RPM 320GB TCG OPAL HGST JAGUAR-C7LO-320"
+    "category": "General"
   },
   {
     "fru_pn": "04X3803",
@@ -2244,42 +2244,42 @@
     "cru_id": "N",
     "description": "CS13X Backlit KBD Estonian Chicony - Primary",
     "model": "X240",
-    "category": "BACKLIT KEYBOARDS"
+    "category": "General"
   },
   {
     "fru_pn": "04X0252",
     "cru_id": "N",
     "description": "CS13X Backlit KBD Estonian Liteon - Secondary",
     "model": "X240",
-    "category": "BACKLIT KEYBOARDS"
+    "category": "General"
   },
   {
     "fru_pn": "04X6385",
     "cru_id": "N",
     "description": "CS13X-KBD Lithuanian Chicony - Primary",
     "model": "X240",
-    "category": "BACKLIT KEYBOARDS"
+    "category": "General"
   },
   {
     "fru_pn": "04X6386",
     "cru_id": "N",
     "description": "CS13X-BL KBD Lithuanian Chicony Backlit - Primary",
     "model": "X240",
-    "category": "BACKLIT KEYBOARDS"
+    "category": "General"
   },
   {
     "fru_pn": "04X6387",
     "cru_id": "N",
     "description": "CS13X-KBD Lithuanian Liteon - Secondary",
     "model": "X240",
-    "category": "BACKLIT KEYBOARDS"
+    "category": "General"
   },
   {
     "fru_pn": "04X6388",
     "cru_id": "N",
     "description": "CS13X-BL KBD Lithuanian Liteon Backlit - Secondary",
     "model": "X240",
-    "category": "BACKLIT KEYBOARDS"
+    "category": "General"
   },
   {
     "fru_pn": "42T5004",
@@ -2440,7 +2440,7 @@
     "cru_id": "N",
     "description": "BOE 12.5\"HD AG panel BOE MODEL HB125WX1-200",
     "model": "X240",
-    "category": "04X0437 N LGD 12.5\"HD/IPS AG LCD"
+    "category": "General"
   },
   {
     "fru_pn": "00HM149",
@@ -2475,1365 +2475,1365 @@
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU211",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU212",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU213",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU214",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 CS",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU215",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU216",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU217",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU218",
     "cru_id": "1",
     "description": "DVD Win7PROx32 SP1 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU219",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU220",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU221",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 CS",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU222",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 CT/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU223",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 CZ/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU224",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU225",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 GK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU226",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU227",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU228",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU229",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 HU/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU230",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU231",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 KR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU232",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU233",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU234",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 RO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU235",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU236",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 SK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU237",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU238",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 SR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU239",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU240",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU241",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU242",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU243",
     "cru_id": "1",
     "description": "DVD Win7PROx64 SP1 C&L SL/CR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU244",
     "cru_id": "1",
     "description": "DVD Win7ULTx32 SP1 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00EU245",
     "cru_id": "1",
     "description": "DVD Win7ULTx64 SP1 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR569",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 CT/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR570",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 CZ/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR572",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 GK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR576",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 HU/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR578",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 KR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR580",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR581",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 RO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR583",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 SK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR585",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 SR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR590",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 C&L SL/CR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR594",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR597",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 SR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR601",
     "cru_id": "1",
     "description": "DVD Win8.1x64 CT/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR602",
     "cru_id": "1",
     "description": "DVD Win8.1x64 CZ/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR604",
     "cru_id": "1",
     "description": "DVD Win8.1x64 GK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR608",
     "cru_id": "1",
     "description": "DVD Win8.1x64 HU/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR610",
     "cru_id": "1",
     "description": "DVD Win8.1x64 KR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR612",
     "cru_id": "1",
     "description": "DVD Win8.1x64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR613",
     "cru_id": "1",
     "description": "DVD Win8.1x64 RO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR614",
     "cru_id": "1",
     "description": "DVD Win8.1x64 SK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HR619",
     "cru_id": "1",
     "description": "DVD Win8.1x64 C&L SL/CR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX093",
     "cru_id": "1",
     "description": "DVD Win8x64 CT/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX094",
     "cru_id": "1",
     "description": "DVD Win8x64 CZ/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX095",
     "cru_id": "1",
     "description": "DVD Win8x64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX096",
     "cru_id": "1",
     "description": "DVD Win8x64 GK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX097",
     "cru_id": "1",
     "description": "DVD Win8x64 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX098",
     "cru_id": "1",
     "description": "DVD Win8x64 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX099",
     "cru_id": "1",
     "description": "DVD Win8x64 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX100",
     "cru_id": "1",
     "description": "DVD Win8x64 HU/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX101",
     "cru_id": "1",
     "description": "DVD Win8x64 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX102",
     "cru_id": "1",
     "description": "DVD Win8x64 KR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX103",
     "cru_id": "1",
     "description": "DVD Win8x64 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX104",
     "cru_id": "1",
     "description": "DVD Win8x64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX105",
     "cru_id": "1",
     "description": "DVD Win8x64 RO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX106",
     "cru_id": "1",
     "description": "DVD Win8x64 SK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX107",
     "cru_id": "1",
     "description": "DVD Win8x64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX108",
     "cru_id": "1",
     "description": "DVD Win8x64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX109",
     "cru_id": "1",
     "description": "DVD Win8x64 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX110",
     "cru_id": "1",
     "description": "DVD Win8x64 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX111",
     "cru_id": "1",
     "description": "DVD Win8x64 C&L SL/CR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX112",
     "cru_id": "1",
     "description": "DVD Win8CNx64 CS",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX113",
     "cru_id": "1",
     "description": "DVD Win8PROx64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX113",
     "cru_id": "1",
     "description": "DVD Win8PROx64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX114",
     "cru_id": "1",
     "description": "DVD Win8PROx64 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX114",
     "cru_id": "1",
     "description": "DVD Win8PROx64 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX115",
     "cru_id": "1",
     "description": "DVD Win8PROx64 CS",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX116",
     "cru_id": "1",
     "description": "DVD Win8PROx64 CT/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX116",
     "cru_id": "1",
     "description": "DVD Win8PROx64 CT/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX117",
     "cru_id": "1",
     "description": "DVD Win8PROx64 CZ/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX117",
     "cru_id": "1",
     "description": "DVD Win8PROx64 CZ/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX118",
     "cru_id": "1",
     "description": "DVD Win8PROx64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX118",
     "cru_id": "1",
     "description": "DVD Win8PROx64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX119",
     "cru_id": "1",
     "description": "DVD Win8PROx64 GK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX119",
     "cru_id": "1",
     "description": "DVD Win8PROx64 GK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX120",
     "cru_id": "1",
     "description": "DVD Win8PROx64 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX120",
     "cru_id": "1",
     "description": "DVD Win8PROx64 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX121",
     "cru_id": "1",
     "description": "DVD Win8PROx64 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX121",
     "cru_id": "1",
     "description": "DVD Win8PROx64 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX122",
     "cru_id": "1",
     "description": "DVD Win8PROx64 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX122",
     "cru_id": "1",
     "description": "DVD Win8PROx64 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX123",
     "cru_id": "1",
     "description": "DVD Win8PROx64 HU/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX123",
     "cru_id": "1",
     "description": "DVD Win8PROx64 HU/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX124",
     "cru_id": "1",
     "description": "DVD Win8PROx64 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX124",
     "cru_id": "1",
     "description": "DVD Win8PROx64 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX125",
     "cru_id": "1",
     "description": "DVD Win8PROx64 KR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX125",
     "cru_id": "1",
     "description": "DVD Win8PROx64 KR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX126",
     "cru_id": "1",
     "description": "DVD Win8PROx64 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX126",
     "cru_id": "1",
     "description": "DVD Win8PROx64 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX127",
     "cru_id": "1",
     "description": "DVD Win8PROx64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX127",
     "cru_id": "1",
     "description": "DVD Win8PROx64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX128",
     "cru_id": "1",
     "description": "DVD Win8PROx64 RO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX128",
     "cru_id": "1",
     "description": "DVD Win8PROx64 RO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX129",
     "cru_id": "1",
     "description": "DVD Win8PROx64 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX129",
     "cru_id": "1",
     "description": "DVD Win8PROx64 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX130",
     "cru_id": "1",
     "description": "DVD Win8PROx64 SK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX130",
     "cru_id": "1",
     "description": "DVD Win8PROx64 SK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX131",
     "cru_id": "1",
     "description": "DVD Win8PROx64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX131",
     "cru_id": "1",
     "description": "DVD Win8PROx64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX132",
     "cru_id": "1",
     "description": "DVD Win8PROx64 SR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX132",
     "cru_id": "1",
     "description": "DVD Win8PROx64 SR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX133",
     "cru_id": "1",
     "description": "DVD Win8PROx64 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX133",
     "cru_id": "1",
     "description": "DVD Win8PROx64 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX134",
     "cru_id": "1",
     "description": "DVD Win8PROx64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX134",
     "cru_id": "1",
     "description": "DVD Win8PROx64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX135",
     "cru_id": "1",
     "description": "DVD Win8PROx64 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX135",
     "cru_id": "1",
     "description": "DVD Win8PROx64 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX136",
     "cru_id": "1",
     "description": "DVD Win8PROx64 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX136",
     "cru_id": "1",
     "description": "DVD Win8PROx64 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX137",
     "cru_id": "1",
     "description": "DVD Win8PROx64 C&L SL/CR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX137",
     "cru_id": "1",
     "description": "DVD Win8PROx64 C&L SL/CR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX138",
     "cru_id": "1",
     "description": "DVD Win8SLx64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX139",
     "cru_id": "1",
     "description": "DVD Win8SLx64 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX140",
     "cru_id": "1",
     "description": "DVD Win8SLx64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX141",
     "cru_id": "1",
     "description": "DVD Win8SLx64 PO/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX142",
     "cru_id": "1",
     "description": "DVD Win8SLx64 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX143",
     "cru_id": "1",
     "description": "DVD Win8SLx64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX144",
     "cru_id": "1",
     "description": "DVD Win8SLx64 SR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX145",
     "cru_id": "1",
     "description": "DVD Win8SLx64 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX146",
     "cru_id": "1",
     "description": "DVD Win8SLx64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX147",
     "cru_id": "1",
     "description": "DVD Win8x64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX148",
     "cru_id": "1",
     "description": "DVD Win8.1CNx64 CS",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX149",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX149",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX150",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX150",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX151",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 CS",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX152",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX152",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX153",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX153",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX154",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX154",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX155",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX155",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX156",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX156",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX157",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX157",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX158",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX158",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX159",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX159",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX160",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX160",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX161",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX161",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX162",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX162",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX163",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX163",
     "cru_id": "1",
     "description": "DVD Win8.1PROx64 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX164",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX165",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 BR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX166",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX167",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 RU",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX168",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX169",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 TR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX170",
     "cru_id": "1",
     "description": "DVD Win8.1SLx64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX171",
     "cru_id": "1",
     "description": "DVD Win8.1x64 AR/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX172",
     "cru_id": "1",
     "description": "DVD Win8.1x64 FR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX173",
     "cru_id": "1",
     "description": "DVD Win8.1x64 GR",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX174",
     "cru_id": "1",
     "description": "DVD Win8.1x64 HB/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX175",
     "cru_id": "1",
     "description": "DVD Win8.1x64 HK/EN",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX176",
     "cru_id": "1",
     "description": "DVD Win8.1x64 JP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX177",
     "cru_id": "1",
     "description": "DVD Win8.1x64 PL",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX178",
     "cru_id": "1",
     "description": "DVD Win8.1x64 SP",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX179",
     "cru_id": "1",
     "description": "DVD Win8.1x64 US",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX180",
     "cru_id": "1",
     "description": "DVD Win8.1x64 C&L EMEA",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HX181",
     "cru_id": "1",
     "description": "DVD Win8.1x64 C&L Nordics",
     "model": "X240",
-    "category": "04X3935 N LCD<GUNZE+ PCB <ELAN>"
+    "category": "General"
   },
   {
     "fru_pn": "00HN910",
     "cru_id": "N",
     "description": "Planar Misc Kit for WV1/WV2",
     "model": "X240",
-    "category": "MECHANICALS AND MISC"
+    "category": "General"
   },
   {
     "fru_pn": "04X0866",
     "cru_id": "N",
     "description": "Speaker ASM <KURODA> - Primary",
     "model": "X240",
-    "category": "MECHANICALS AND MISC"
+    "category": "General"
   },
   {
     "fru_pn": "04X1847",
     "cru_id": "N",
     "description": "Antenna Dummy for WLAN ONLY",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X3827",
     "cru_id": "N",
     "description": "3rd NGFF SSD adapter",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5136",
     "cru_id": "N",
     "description": "M.2 Cover",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5353",
     "cru_id": "N",
     "description": "Base Misc Kit",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5354",
     "cru_id": "N",
     "description": "System Misc Kit",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5355",
     "cru_id": "N",
     "description": "KBD Spacer",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5356",
     "cru_id": "N",
     "description": "Speaker ASM <Onkyo> - Secondary",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5373",
     "cru_id": "N",
     "description": "Screw&Tape kit",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5439",
     "cru_id": "N",
     "description": "No Battery Spacer",
     "model": "X240",
-    "category": "04X0869 N SIM TRAY <JAE>"
+    "category": "General"
   },
   {
     "fru_pn": "04X5369",
@@ -4281,56 +4281,56 @@
     "cru_id": "N",
     "description": "WV2,CAM CBL,eSKY",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT403",
     "cru_id": "N",
     "description": "WV2,CAM CBL Tch,AMP",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT404",
     "cru_id": "N",
     "description": "WV2,CAM CBL Tch,LUX",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT405",
     "cru_id": "N",
     "description": "WV2,CAM CBL Tch,eSKY",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT429",
     "cru_id": "N",
     "description": "DC-IN,SpeedTech,Amphenol",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT430",
     "cru_id": "N",
     "description": "DC-IN,SpeedTech,LUX",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT431",
     "cru_id": "N",
     "description": "DC-IN,ECT,Amphenol",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "00HT432",
     "cru_id": "N",
     "description": "DC-IN,ECT,Luxshare-ICT",
     "model": "X250",
-    "category": "00HT401 N WV2,CAM CBL,AMP"
+    "category": "General"
   },
   {
     "fru_pn": "04X1398",
@@ -4582,7 +4582,7 @@
     "cru_id": "N",
     "description": "HEATSINK,CPU,with grease,AVC",
     "model": "X250",
-    "category": "00HN927 N X250,AVC,CUT"
+    "category": "General"
   },
   {
     "fru_pn": "00HN990",
@@ -4666,49 +4666,49 @@
     "cru_id": "N",
     "description": "Micro SIM Tray,WV2,BLK,PCABS",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X1847",
     "cru_id": "N",
     "description": "Dummy,Antenna,WLAN,asm",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X3827",
     "cru_id": "N",
     "description": "M.2,Subcard",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X5136",
     "cru_id": "N",
     "description": "Cover,M.2",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X5353",
     "cru_id": "N",
     "description": "BaseMisc,Foot,Screw",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X5354",
     "cru_id": "N",
     "description": "SystemMisc,Bracket,logo,Sheet",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X5439",
     "cru_id": "N",
     "description": "Dummy,Battery",
     "model": "X250",
-    "category": "00HN932 N KBD_SUPPORT"
+    "category": "General"
   },
   {
     "fru_pn": "04X0177",
@@ -5247,14 +5247,14 @@
     "cru_id": "N",
     "description": "CS13X,LT,CHY,Backlit",
     "model": "X250",
-    "category": "04X6385 N CS13X,LT,CHY"
+    "category": "General"
   },
   {
     "fru_pn": "04X6388",
     "cru_id": "N",
     "description": "CS13X,LT,LTN,Backlit",
     "model": "X250",
-    "category": "04X6387 N CS13X,LT,LTN"
+    "category": "General"
   },
   {
     "fru_pn": "00UV234",
@@ -7487,14 +7487,14 @@
     "cru_id": "N",
     "description": "AUO 12.5 FHD IPS AG 2.3t",
     "model": "X260",
-    "category": "00HN856 N IVO 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "00HN884",
     "cru_id": "N",
     "description": "INX 12.5 FHD IPS AG 2.3t",
     "model": "X260",
-    "category": "00HN856 N IVO 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "03X6298",
@@ -7704,532 +7704,532 @@
     "cru_id": "N",
     "description": "internal,USE,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV501",
     "cru_id": "N",
     "description": "internal,CFA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV502",
     "cru_id": "N",
     "description": "internal,CFR,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV503",
     "cru_id": "N",
     "description": "internal,LAS,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV504",
     "cru_id": "N",
     "description": "internal,BRA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV505",
     "cru_id": "N",
     "description": "internal,ARA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV506",
     "cru_id": "N",
     "description": "internal,BEL,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV507",
     "cru_id": "N",
     "description": "internal,BUL,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV508",
     "cru_id": "N",
     "description": "internal,CZH,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV509",
     "cru_id": "N",
     "description": "internal,DEN,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV510",
     "cru_id": "N",
     "description": "internal,SPA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV511",
     "cru_id": "N",
     "description": "internal,FRA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV512",
     "cru_id": "N",
     "description": "internal,GER,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV513",
     "cru_id": "N",
     "description": "internal,GRK,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV514",
     "cru_id": "N",
     "description": "internal,HBW,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV515",
     "cru_id": "N",
     "description": "internal,HGN,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV516",
     "cru_id": "N",
     "description": "internal,ICE,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV517",
     "cru_id": "N",
     "description": "internal,ITA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV518",
     "cru_id": "N",
     "description": "internal,KAZ,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV519",
     "cru_id": "N",
     "description": "internal,NET,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV520",
     "cru_id": "N",
     "description": "internal,NOR,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV522",
     "cru_id": "N",
     "description": "internal,POR,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV523",
     "cru_id": "N",
     "description": "internal,RUS,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV524",
     "cru_id": "N",
     "description": "internal,SLK,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV525",
     "cru_id": "N",
     "description": "internal,SCB,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV526",
     "cru_id": "N",
     "description": "internal,SWE,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV527",
     "cru_id": "N",
     "description": "internal,SWS,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV528",
     "cru_id": "N",
     "description": "internal,TUR,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV529",
     "cru_id": "N",
     "description": "internal,UKE,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV530",
     "cru_id": "N",
     "description": "internal,USI,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV531",
     "cru_id": "N",
     "description": "internal,JPN,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV532",
     "cru_id": "N",
     "description": "internal,KOR,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV533",
     "cru_id": "N",
     "description": "internal,TWN,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV534",
     "cru_id": "N",
     "description": "internal,THA,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV535",
     "cru_id": "N",
     "description": "internal,TUF,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV536",
     "cru_id": "N",
     "description": "internal,IND,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV537",
     "cru_id": "N",
     "description": "internal,EST,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV539",
     "cru_id": "N",
     "description": "internal,LIT,Chicony,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV540",
     "cru_id": "N",
     "description": "internal,USE,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV541",
     "cru_id": "N",
     "description": "internal,CFA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV542",
     "cru_id": "N",
     "description": "internal,CFR,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV543",
     "cru_id": "N",
     "description": "internal,LAS,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV544",
     "cru_id": "N",
     "description": "internal,BRA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV545",
     "cru_id": "N",
     "description": "internal,ARA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV546",
     "cru_id": "N",
     "description": "internal,BEL,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV547",
     "cru_id": "N",
     "description": "internal,BUL,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV548",
     "cru_id": "N",
     "description": "internal,CZH,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV549",
     "cru_id": "N",
     "description": "internal,DEN,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV550",
     "cru_id": "N",
     "description": "internal,SPA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV551",
     "cru_id": "N",
     "description": "internal,FRA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV552",
     "cru_id": "N",
     "description": "internal,GER,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV553",
     "cru_id": "N",
     "description": "internal,GRK,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV554",
     "cru_id": "N",
     "description": "internal,HBW,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV555",
     "cru_id": "N",
     "description": "internal,HGN,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV556",
     "cru_id": "N",
     "description": "internal,ICE,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV557",
     "cru_id": "N",
     "description": "internal,ITA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV558",
     "cru_id": "N",
     "description": "internal,KAZ,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV559",
     "cru_id": "N",
     "description": "internal,NET,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV560",
     "cru_id": "N",
     "description": "internal,NOR,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV562",
     "cru_id": "N",
     "description": "internal,POR,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV563",
     "cru_id": "N",
     "description": "internal,RUS,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV564",
     "cru_id": "N",
     "description": "internal,SLK,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV565",
     "cru_id": "N",
     "description": "internal,SCB,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV566",
     "cru_id": "N",
     "description": "internal,SWE,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV567",
     "cru_id": "N",
     "description": "internal,SWS,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV568",
     "cru_id": "N",
     "description": "internal,TUR,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV569",
     "cru_id": "N",
     "description": "internal,UKE,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV570",
     "cru_id": "N",
     "description": "internal,USI,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV571",
     "cru_id": "N",
     "description": "internal,JPN,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV572",
     "cru_id": "N",
     "description": "internal,KOR,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV573",
     "cru_id": "N",
     "description": "internal,TWN,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV574",
     "cru_id": "N",
     "description": "internal,THA,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV575",
     "cru_id": "N",
     "description": "internal,TUF,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV576",
     "cru_id": "N",
     "description": "internal,IND,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV577",
     "cru_id": "N",
     "description": "internal,EST,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "01AV579",
     "cru_id": "N",
     "description": "internal,LIT,Liteon,backlit",
     "model": "X260",
-    "category": "01AV285 N KBD,NDC,CHYBL"
+    "category": "General"
   },
   {
     "fru_pn": "00UX944",
@@ -9090,98 +9090,98 @@
     "cru_id": "1",
     "description": "Liteon ADLX65YLC3A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR025",
     "cru_id": "1",
     "description": "Liteon ADLX65YLC2A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR026",
     "cru_id": "1",
     "description": "Chicony ADLX65YCC3A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR027",
     "cru_id": "1",
     "description": "Chicony ADLX65YCC2A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR028",
     "cru_id": "1",
     "description": "Acbel ADLX65YAC3A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR029",
     "cru_id": "1",
     "description": "Acbel ADLX65YAC2A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR030",
     "cru_id": "1",
     "description": "Delta ADLX65YDC3A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "01FR031",
     "cru_id": "1",
     "description": "Delta ADLX65YDC2A 20V3.25A",
     "model": "X270",
-    "category": "00HM668 1 PD,45W,20/15/9/5V,2P,WW,ACB"
+    "category": "General"
   },
   {
     "fru_pn": "03X6574",
     "cru_id": "1",
     "description": "FRU for HDMI to VGA dongle",
     "model": "X270",
-    "category": "45N0497 1 65W,20VDC,3P,WW,CHY"
+    "category": "General"
   },
   {
     "fru_pn": "01ER019",
     "cru_id": "N",
     "description": "antenna,NFC,DEX",
     "model": "X270",
-    "category": "01AX993 N ANTENNA,NFC,ASM"
+    "category": "General"
   },
   {
     "fru_pn": "01HW954",
     "cru_id": "N",
     "description": "FRU ANTENNA kit for wlan",
     "model": "X270",
-    "category": "01AX993 N ANTENNA,NFC,ASM"
+    "category": "General"
   },
   {
     "fru_pn": "01HW955",
     "cru_id": "N",
     "description": "FRU ANTENNA kit for Wlan/WWAN",
     "model": "X270",
-    "category": "01AX993 N ANTENNA,NFC,ASM"
+    "category": "General"
   },
   {
     "fru_pn": "01HW964",
     "cru_id": "N",
     "description": "FRU NFC Antenna support mylar",
     "model": "X270",
-    "category": "01AX993 N ANTENNA,NFC,ASM"
+    "category": "General"
   },
   {
     "fru_pn": "01HY562",
     "cru_id": "N",
     "description": "FRU NFC Antenna Cable",
     "model": "X270",
-    "category": "01AX993 N ANTENNA,NFC,ASM"
+    "category": "General"
   },
   {
     "fru_pn": "01HY578",
@@ -9923,84 +9923,84 @@
     "cru_id": "N",
     "description": "FRU LCD COVER SMALL wigig",
     "model": "X270",
-    "category": "01HW945 N FRU LCD COVER SMALL CHUNQIU"
+    "category": "General"
   },
   {
     "fru_pn": "01HY501",
     "cru_id": "1",
     "description": "FRU D cover ASM TaiYi",
     "model": "X270",
-    "category": "01HW945 N FRU LCD COVER SMALL CHUNQIU"
+    "category": "General"
   },
   {
     "fru_pn": "01HY581",
     "cru_id": "N",
     "description": "FRU LCD cover non wigig",
     "model": "X270",
-    "category": "01HW945 N FRU LCD COVER SMALL CHUNQIU"
+    "category": "General"
   },
   {
     "fru_pn": "01HY582",
     "cru_id": "N",
     "description": "FRU LCD cover wigig",
     "model": "X270",
-    "category": "01HW945 N FRU LCD COVER SMALL CHUNQIU"
+    "category": "General"
   },
   {
     "fru_pn": "01LV734",
     "cru_id": "N",
     "description": "FRU,A cover CHUNQIU",
     "model": "X270",
-    "category": "01HW945 N FRU LCD COVER SMALL CHUNQIU"
+    "category": "General"
   },
   {
     "fru_pn": "01LV735",
     "cru_id": "N",
     "description": "FRU,A cover CTT",
     "model": "X270",
-    "category": "01HW945 N FRU LCD COVER SMALL CHUNQIU"
+    "category": "General"
   },
   {
     "fru_pn": "00HN883",
     "cru_id": "N",
     "description": "AUO 12.5 FHD IPS AG 2.3t",
     "model": "X270",
-    "category": "00HN856 N IVO 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "01EN364",
     "cru_id": "N",
     "description": "12.5\" 3.0t,AG,220nit,HD,NT,IVO",
     "model": "X270",
-    "category": "00NY414 N LGD 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "01EN365",
     "cru_id": "N",
     "description": "12.5\" 3.0t,AG,220nit,HD,NT,BOE",
     "model": "X270",
-    "category": "00NY414 N LGD 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "01EN374",
     "cru_id": "N",
     "description": "12.5\" 2.3t,AG,300nit,FHD,NT,INX",
     "model": "X270",
-    "category": "00NY414 N LGD 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "01HY494",
     "cru_id": "N",
     "description": "12.5FHD IPS AG touch,300nit,AUO",
     "model": "X270",
-    "category": "00NY414 N LGD 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "01HY495",
     "cru_id": "N",
     "description": "12.5FHD IPS AG touch,300nit,IVO",
     "model": "X270",
-    "category": "00NY414 N LGD 12.5 HD IPS AG"
+    "category": "General"
   },
   {
     "fru_pn": "03X6298",
@@ -10455,154 +10455,154 @@
     "cru_id": "N",
     "description": "FRU KBD bezel ASM with FPR",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HW958",
     "cru_id": "N",
     "description": "KBD bezel ASM with no FPR",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HW959",
     "cru_id": "N",
     "description": "KBD bezel ASM with FPR with NFC",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HW960",
     "cru_id": "N",
     "description": "KBD bezel ASM w/o FPR with NFC",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HW961",
     "cru_id": "N",
     "description": "FRU KBD spacer ASM",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HY563",
     "cru_id": "N",
     "description": "FRU System Misc Kit",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HY564",
     "cru_id": "N",
     "description": "FRU Screw&Tape kit",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HY565",
     "cru_id": "N",
     "description": "FRU M.2 Adapter&HDD Bracket ASM",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HY572",
     "cru_id": "N",
     "description": "FRU speaker ASM with sponge",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01LW703",
     "cru_id": "N",
     "description": "FRU M.2 Adapter ASM&HDD Bracket",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01LW708",
     "cru_id": "N",
     "description": "FRU Dummy HDD",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "00HT398",
     "cru_id": "N",
     "description": "Micro SIM Tray,BLK,PCABS",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01AV581",
     "cru_id": "N",
     "description": "wigig thermal pad",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HW963",
     "cru_id": "N",
     "description": "FRU NFC sponge",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HW965",
     "cru_id": "N",
     "description": "NFC PCB mylar",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HY500",
     "cru_id": "N",
     "description": "Speaker sponge",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01HY577",
     "cru_id": "N",
     "description": "FRU Front Dummy Battery",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01LV742",
     "cru_id": "N",
     "description": "AL foil 1 for intel SSD",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01LV743",
     "cru_id": "N",
     "description": "AL foil 2 for intel SSD",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "04X1847",
     "cru_id": "N",
     "description": "Dummy,Antenna,WLAN,asm",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "04X5136",
     "cru_id": "N",
     "description": "Cover,M.2",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "04X5439",
     "cru_id": "N",
     "description": "Dummy,Battery",
     "model": "X270",
-    "category": "00UR977 N CS14S_3+2BCP,MYLAR,PBLACK,TRA"
+    "category": "General"
   },
   {
     "fru_pn": "01AG701",
@@ -10693,1029 +10693,1029 @@
     "cru_id": "N",
     "description": "KBD N/BL CHY LA Spanish",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN552",
     "cru_id": "N",
     "description": "KBD N/BL CHY Brazil Portuguese",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN553",
     "cru_id": "N",
     "description": "KBD N/BL CHY Arabic",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN554",
     "cru_id": "N",
     "description": "KBD N/BL CHY Belgian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN555",
     "cru_id": "N",
     "description": "KBD N/BL CHY Bulgarian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN556",
     "cru_id": "N",
     "description": "KBD N/BL CHY Czech",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN557",
     "cru_id": "N",
     "description": "KBD N/BL CHY Danish",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN558",
     "cru_id": "N",
     "description": "KBD N/BL CHY Spanish",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN559",
     "cru_id": "N",
     "description": "KBD N/BL CHY French",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN560",
     "cru_id": "N",
     "description": "KBD N/BL CHY German",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN561",
     "cru_id": "N",
     "description": "KBD N/BL CHY Greek",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN562",
     "cru_id": "N",
     "description": "KBD N/BL CHY Hebrew",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN563",
     "cru_id": "N",
     "description": "KBD N/BL CHY Hungarian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN564",
     "cru_id": "N",
     "description": "KBD N/BL CHY Icelandic",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN565",
     "cru_id": "N",
     "description": "KBD N/BL CHY Italian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN566",
     "cru_id": "N",
     "description": "KBD N/BL CHY Kazakhstan",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN567",
     "cru_id": "N",
     "description": "KBD N/BL CHY Netherlands",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN568",
     "cru_id": "N",
     "description": "KBD N/BL CHY Norwegian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN569",
     "cru_id": "N",
     "description": "KBD N/BL CHY Portuguese",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN570",
     "cru_id": "N",
     "description": "KBD N/BL CHY Russian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN571",
     "cru_id": "N",
     "description": "KBD N/BL CHY Slovak",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN572",
     "cru_id": "N",
     "description": "KBD N/BL CHY Slovenian",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN573",
     "cru_id": "N",
     "description": "KBD N/BL CHY Swedish/Finnish",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN574",
     "cru_id": "N",
     "description": "KBD N/BL CHY Swiss",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN575",
     "cru_id": "N",
     "description": "KBD N/BL CHY Turkish",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN576",
     "cru_id": "N",
     "description": "KBD N/BL CHY UK English",
     "model": "X270",
-    "category": "01EN550 N KBD N/BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN578",
     "cru_id": "N",
     "description": "KBD N/BL CHY Japanese",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN579",
     "cru_id": "N",
     "description": "KBD N/BL CHY Korean",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN580",
     "cru_id": "N",
     "description": "KBD N/BL CHY Traditional Chinese",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN581",
     "cru_id": "N",
     "description": "KBD N/BL CHY Thai",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN582",
     "cru_id": "N",
     "description": "KBD N/BL CHY Turkish-F",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN583",
     "cru_id": "N",
     "description": "KBD N/BL CHY Indian",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN584",
     "cru_id": "N",
     "description": "KBD N/BL CHY Estonian",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN585",
     "cru_id": "N",
     "description": "KBD N/BL CHY Lithuanian",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN586",
     "cru_id": "N",
     "description": "KBD BL CHY US English",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN587",
     "cru_id": "N",
     "description": "KBD BL CHY Canadian French ACNOR",
     "model": "X270",
-    "category": "01EN577 N KBD N/BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EN589",
     "cru_id": "N",
     "description": "KBD BL CHY LA Spanish",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN590",
     "cru_id": "N",
     "description": "KBD BL CHY Brazil Portuguese",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN591",
     "cru_id": "N",
     "description": "KBD BL CHY Arabic",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN592",
     "cru_id": "N",
     "description": "KBD BL CHY Belgian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN593",
     "cru_id": "N",
     "description": "KBD BL CHY Bulgarian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN594",
     "cru_id": "N",
     "description": "KBD BL CHY Czech",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN595",
     "cru_id": "N",
     "description": "KBD BL CHY Danish",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN596",
     "cru_id": "N",
     "description": "KBD BL CHY Spanish",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN597",
     "cru_id": "N",
     "description": "KBD BL CHY French",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN598",
     "cru_id": "N",
     "description": "KBD BL CHY German",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EN599",
     "cru_id": "N",
     "description": "KBD BL CHY Greek",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP000",
     "cru_id": "N",
     "description": "KBD BL CHY Hebrew",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP001",
     "cru_id": "N",
     "description": "KBD BL CHY Hungarian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP002",
     "cru_id": "N",
     "description": "KBD BL CHY Icelandic",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP003",
     "cru_id": "N",
     "description": "KBD BL CHY Italian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP004",
     "cru_id": "N",
     "description": "KBD BL CHY Kazakhstan",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP005",
     "cru_id": "N",
     "description": "KBD BL CHY Netherlands",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP006",
     "cru_id": "N",
     "description": "KBD BL CHY Norwegian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP007",
     "cru_id": "N",
     "description": "KBD BL CHY Portuguese",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP008",
     "cru_id": "N",
     "description": "KBD BL CHY Russian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP009",
     "cru_id": "N",
     "description": "KBD BL CHY Slovak",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP010",
     "cru_id": "N",
     "description": "KBD BL CHY Slovenian",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP011",
     "cru_id": "N",
     "description": "KBD BL CHY Swedish/Finnish",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP012",
     "cru_id": "N",
     "description": "KBD BL CHY Swiss",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP013",
     "cru_id": "N",
     "description": "KBD BL CHY Turkish",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP014",
     "cru_id": "N",
     "description": "KBD BL CHY UK English",
     "model": "X270",
-    "category": "01EN588 N KBD BL CHY CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP016",
     "cru_id": "N",
     "description": "KBD BL CHY Japanese",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP017",
     "cru_id": "N",
     "description": "KBD BL CHY Korean",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP018",
     "cru_id": "N",
     "description": "KBD BL CHY Traditional Chinese",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP019",
     "cru_id": "N",
     "description": "KBD BL CHY Thai",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP020",
     "cru_id": "N",
     "description": "KBD BL CHY Turkish-F",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP021",
     "cru_id": "N",
     "description": "KBD BL CHY Indian",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP022",
     "cru_id": "N",
     "description": "KBD BL CHY Estonian",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP023",
     "cru_id": "N",
     "description": "KBD BL CHY Lithuanian",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP024",
     "cru_id": "N",
     "description": "KBD N/BL LTN US English",
     "model": "X270",
-    "category": "01EP015 N KBD BL CHY USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP027",
     "cru_id": "N",
     "description": "KBD N/BL LTN LA Spanish",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP028",
     "cru_id": "N",
     "description": "KBD N/BL LTN Brazil Portuguese",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP029",
     "cru_id": "N",
     "description": "KBD N/BL LTN Arabic",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP030",
     "cru_id": "N",
     "description": "KBD N/BL LTN Belgian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP031",
     "cru_id": "N",
     "description": "KBD N/BL LTN Bulgarian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP032",
     "cru_id": "N",
     "description": "KBD N/BL LTN Czech",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP033",
     "cru_id": "N",
     "description": "KBD N/BL LTN Danish",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP034",
     "cru_id": "N",
     "description": "KBD N/BL LTN Spanish",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP035",
     "cru_id": "N",
     "description": "KBD N/BL LTN French",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP036",
     "cru_id": "N",
     "description": "KBD N/BL LTN German",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP037",
     "cru_id": "N",
     "description": "KBD N/BL LTN Greek",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP038",
     "cru_id": "N",
     "description": "KBD N/BL LTN Hebrew",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP039",
     "cru_id": "N",
     "description": "KBD N/BL LTN Hungarian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP040",
     "cru_id": "N",
     "description": "KBD N/BL LTN Icelandic",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP041",
     "cru_id": "N",
     "description": "KBD N/BL LTN Italian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP042",
     "cru_id": "N",
     "description": "KBD N/BL LTN Kazakhstan",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP043",
     "cru_id": "N",
     "description": "KBD N/BL LTN Netherlands",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP044",
     "cru_id": "N",
     "description": "KBD N/BL LTN Norwegian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP045",
     "cru_id": "N",
     "description": "KBD N/BL LTN Portuguese",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP046",
     "cru_id": "N",
     "description": "KBD N/BL LTN Russian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP047",
     "cru_id": "N",
     "description": "KBD N/BL LTN Slovak",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP048",
     "cru_id": "N",
     "description": "KBD N/BL LTN Slovenian",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP049",
     "cru_id": "N",
     "description": "KBD N/BL LTN Swedish/Finnish",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP050",
     "cru_id": "N",
     "description": "KBD N/BL LTN Swiss",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP051",
     "cru_id": "N",
     "description": "KBD N/BL LTN Turkish",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP052",
     "cru_id": "N",
     "description": "KBD N/BL LTN UK English",
     "model": "X270",
-    "category": "01EP026 N KBD N/BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP054",
     "cru_id": "N",
     "description": "KBD N/BL LTN Japanese",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP055",
     "cru_id": "N",
     "description": "KBD N/BL LTN Korean",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP056",
     "cru_id": "N",
     "description": "KBD N/BL LTN Traditional Chinese",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP057",
     "cru_id": "N",
     "description": "KBD N/BL LTN Thai",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP058",
     "cru_id": "N",
     "description": "KBD N/BL LTN Turkish-F",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP059",
     "cru_id": "N",
     "description": "KBD N/BL LTN Indian",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP060",
     "cru_id": "N",
     "description": "KBD N/BL LTN Estonian",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP061",
     "cru_id": "N",
     "description": "KBD N/BL LTN Lithuanian",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP062",
     "cru_id": "N",
     "description": "KBD BL LTN US English",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP063",
     "cru_id": "N",
     "description": "KBD BL LTN Canadian French ACNOR",
     "model": "X270",
-    "category": "01EP053 N KBD N/BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP065",
     "cru_id": "N",
     "description": "KBD BL LTN LA Spanish",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP066",
     "cru_id": "N",
     "description": "KBD BL LTN Brazil Portuguese",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP067",
     "cru_id": "N",
     "description": "KBD BL LTN Arabic",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP068",
     "cru_id": "N",
     "description": "KBD BL LTN Belgian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP069",
     "cru_id": "N",
     "description": "KBD BL LTN Bulgarian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP070",
     "cru_id": "N",
     "description": "KBD BL LTN Czech",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP071",
     "cru_id": "N",
     "description": "KBD BL LTN Danish",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP072",
     "cru_id": "N",
     "description": "KBD BL LTN Spanish",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP073",
     "cru_id": "N",
     "description": "KBD BL LTN French",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP074",
     "cru_id": "N",
     "description": "KBD BL LTN German",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP075",
     "cru_id": "N",
     "description": "KBD BL LTN Greek",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP076",
     "cru_id": "N",
     "description": "KBD BL LTN Hebrew",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP077",
     "cru_id": "N",
     "description": "KBD BL LTN Hungarian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP078",
     "cru_id": "N",
     "description": "KBD BL LTN Icelandic",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP079",
     "cru_id": "N",
     "description": "KBD BL LTN Italian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP080",
     "cru_id": "N",
     "description": "KBD BL LTN Kazakhstan",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP081",
     "cru_id": "N",
     "description": "KBD BL LTN Netherlands",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP082",
     "cru_id": "N",
     "description": "KBD BL LTN Norwegian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP083",
     "cru_id": "N",
     "description": "KBD BL LTN Portuguese",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP084",
     "cru_id": "N",
     "description": "KBD BL LTN Russian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP085",
     "cru_id": "N",
     "description": "KBD BL LTN Slovak",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP086",
     "cru_id": "N",
     "description": "KBD BL LTN Slovenian",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP087",
     "cru_id": "N",
     "description": "KBD BL LTN Swedish/Finnish",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP088",
     "cru_id": "N",
     "description": "KBD BL LTN Swiss",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP089",
     "cru_id": "N",
     "description": "KBD BL LTN Turkish",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP090",
     "cru_id": "N",
     "description": "KBD BL LTN UK English",
     "model": "X270",
-    "category": "01EP064 N KBD BL LTN CFR"
+    "category": "General"
   },
   {
     "fru_pn": "01EP092",
     "cru_id": "N",
     "description": "KBD BL LTN Japanese",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP093",
     "cru_id": "N",
     "description": "KBD BL LTN Korean",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP094",
     "cru_id": "N",
     "description": "KBD BL LTN Traditional Chinese",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP095",
     "cru_id": "N",
     "description": "KBD BL LTN Thai",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP096",
     "cru_id": "N",
     "description": "KBD BL LTN Turkish-F",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP097",
     "cru_id": "N",
     "description": "KBD BL LTN Indian",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP098",
     "cru_id": "N",
     "description": "KBD BL LTN Estonian",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP099",
     "cru_id": "N",
     "description": "KBD BL LTN Lithuanian",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP102",
     "cru_id": "N",
     "description": "KBD N/BL CHY Canadian Bilingual",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP104",
     "cru_id": "N",
     "description": "KBD N/BL CHY Nordic",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP107",
     "cru_id": "N",
     "description": "KBD BL CHY Nordic",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP108",
     "cru_id": "N",
     "description": "KBD N/BL LTN Canadian Bilingual",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP110",
     "cru_id": "N",
     "description": "KBD N/BL LTN Nordic",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01EP113",
     "cru_id": "N",
     "description": "KBD BL LTN Nordic",
     "model": "X270",
-    "category": "01EP091 N KBD BL LTN USI"
+    "category": "General"
   },
   {
     "fru_pn": "01FW702",
@@ -12359,154 +12359,154 @@
     "cru_id": "2",
     "description": "256G,M.2,2280,PCIe3x4,INTEL,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP435",
     "cru_id": "2",
     "description": "512G,M.2,2280,PCIe3x4,INTEL,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP436",
     "cru_id": "2",
     "description": "256G,M.2,2280,PCIe3x4,SAM,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP437",
     "cru_id": "2",
     "description": "512G,M.2,2280,PCIe3x4,SAM,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP438",
     "cru_id": "2",
     "description": "1024G,M.2,2280,PCIe3x4,SAM,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP621",
     "cru_id": "2",
     "description": "256G,M.2,2280,PCIe3x4,TOS,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP622",
     "cru_id": "2",
     "description": "512G,M.2,2280,PCIe3x4,TOS,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP631",
     "cru_id": "2",
     "description": "128G,2.5\",7mm,SATA6G,SAN,STD",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP632",
     "cru_id": "2",
     "description": "128G,2.5\",7mm,SATA6G,SAN,STD",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP641",
     "cru_id": "2",
     "description": "256G,M.2,2280,PCIe3x4,TOS,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00UP642",
     "cru_id": "2",
     "description": "512G,M.2,2280,PCIe3x4,TOS,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01AY572",
     "cru_id": "2",
     "description": "SSD,128G,2.5\",7mm,SATA,SAM",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01AY573",
     "cru_id": "2",
     "description": "SSD,128G,2.5'',7mm,SATA,SAM",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01AY578",
     "cru_id": "2",
     "description": "180G,2.5\",7mm,SATA6G,Intel,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01AY582",
     "cru_id": "2",
     "description": "180G,2.5\",7mm,SATA6G,Intel,OPAL",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01AY595",
     "cru_id": "2",
     "description": "SSD,128G,2.5\",7mm,SATA3,LTON",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01AY597",
     "cru_id": "2",
     "description": "128G,2.5\",7mm,SATA6G,LTON,STD",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01EN336",
     "cru_id": "2",
     "description": "SSD,256G,2.5'',9.5mm,SAM,SATA3",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01EN337",
     "cru_id": "2",
     "description": "SSD,256G,2.5'',9.5mm,LTN,SATA3",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01EN338",
     "cru_id": "2",
     "description": "SSD,256G,2.5'',9.5mm,SDK,SATA3",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01HY673",
     "cru_id": "2",
     "description": "128G,2.5\",9.5mm,SATA,LTON,STD",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "01HY674",
     "cru_id": "2",
     "description": "256G,2.5\",9.5mm,SATA,LTON,OPAL2",
     "model": "X270",
-    "category": "00UP432 2 128G,M.2 2242 ,SATA6G,LION,STD"
+    "category": "General"
   },
   {
     "fru_pn": "00JT499",
@@ -12646,13 +12646,13 @@
     "cru_id": "2",
     "description": "Intel 8265 Vpro M2 Brazil PPB",
     "model": "X270",
-    "category": "01HW962 2 FRU NFC FPC"
+    "category": "General"
   },
   {
     "fru_pn": "SW10K97537",
     "cru_id": "2",
     "description": "Intel 8265 NV M2 Brazil PPB",
     "model": "X270",
-    "category": "01HW962 2 FRU NFC FPC"
+    "category": "General"
   }
 ]
