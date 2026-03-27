@@ -1,0 +1,604 @@
+X240 FRU BOM; MT: 20AL, 20AM
+Fru P/N Cru Id Description
+AC ADAPTERS
+45N0254 1 Common Delta 65W 3pin AC Adapter
+45N0256 1 Common Delta 65W 2pin AC Adapter
+45N0258 1 Common Liteon 65W 3pin AC Adapter
+45N0260 1 Common Liteon 65W 2pin AC Adapter
+45N0262 1 Common Chicony 65W 3pin AC Adapter
+45N0264 1 Common Chicony 65W 2pin AC Adapter
+45N0290 1 Common Delta 45W 3pin AC Adapter
+45N0292 1 Common Delta 45W 2pin AC Adapter
+45N0294 1 Common Liteon 45W 3pin AC Adapter
+45N0296 1 Common Liteon 45W 2pin AC Adapter
+45N0298 1 Common Chicony 45W 3pin AC Adapter
+45N0300 1 Common Chicony 45W 2pin AC Adapter
+45N0328 1 common Liteon 65W 2pin + slim plug BRAZIL AC Adapter
+45N0334 1 common Delta 65W 3pin + slim plug BRAZIL AC Adapter
+45N0336 1 common Liteon 65W 3pin + slim plug BRAZIL AC Adapter
+
+WIRELESS AND SUBCARDS
+04W3800 N Foxconn 20792S NFC module without antenna
+04W3801 N Sierra Gobi5000 LTE/EVDO/HSPA+ 42Mbps NGFF Card
+04W3804 2 Foxconn RTL8192EE+RTL8761 2*2 bgn + BT4.0 M.2 Card - Primary
+04W3805 2 Liteon RTL8192EE+RTL8761 2*2 bgn + BT4.0 M.2 Card - Secondary
+04W3842 2 Ericsson N5321 HSPA+ 21Mbps M.2 WWAN Support Win8.1
+04W3844 2 Intel Wilkins Peak 2 7260 2*2 11ac+BT4.0 M.2 Card Indonesia SKU
+04W3845 2 Intel Wilkins Peak 2 7260 2*2 11agn+BT4.0 M.2 Card Indonesia SKU
+04X0757 N Power switch Sub card
+04X3984 N Smart card reader
+04X3991 N Mic subcard
+04X5132 N Lid Sensor subcard
+04X5393 N Smart Card Reader (Taisol)
+04X6007 2 Intel Wilkins Peak 2 7260 2*2 11ac+BT4.0 M.2 Card
+04X6008 2 Intel Wilkins Peak 2 7260 2*2 11agn+BT4.0 M.2 Card
+04X6009 2 Intel Wilkins Peak 2 7260BN 2*2 11bgn+BT4.0 M.2 Card
+04X6014 2 Sierra EM7345 LTE/HSPA+ 42Mbps M.2 Card
+
+ANTENNAS
+04X5369 N Antenna Kit for WLAN only <Amphenol> - Primary
+04X5370 N Antenna Kit for WLAN only <Yageo> - Secondary
+04X5371 N Antenna Kit for WWAN+WLAN model <Amphenol> - Primary
+04X5372 N Antenna Kit for WWAN+WLAN model <Luxshare-ICT> - Secondary
+
+BATTERIES
+45N1109 N Integrated Panasonic-SANYO 3cell ( 3s1p) / 23Wh prismatic battery
+45N1111 N Integrated Sony 3cell ( 3s1p) / 23Wh polymer battery
+45N1125 1 Rear Panasonic-SANYO 3cell ( 3s1p) / 23Wh prismatic battery
+45N1734 1 Panasonic Sting - Rear 6cell / 2.2Ah cylindrical battery - Primary
+45N1735 1 LGC Sting - Rear 6cell / 2.2Ah cylindrical battery - Secondary
+45N1736 1 Simplo Sting - Rear 6cell / 2.2Ah cylindrical battery - Secondary
+45N1737 1 Panasonic Sting - Rear 6cell / 12Wh cylindrical battery - Primary
+45N1767 1 Panasonic Sting - Rear 6cell / 2.2Ah cylindrical battery
+45N1773 N Panasonic Rogue Integ 3cell / 23Wh prismatic battery
+45N1775 1 Panasonic Sting - Rear 3cell / 23Wh prismatic battery
+45N1777 1 Panasonic Sting - Rear 6cell / 12Wh cylindrical battery
+45N5864 N RTC Battery LH
+
+PLANARS
+00HM944 N Planar i3-4030U NOK, N-AMT, Y-TPM, Dock
+00HM945 N Planar i3-4030U NOK, N-AMT, N-TPM, Dock
+00HM946 N Planar i3-4030U W8P, N-AMT, Y-TPM, Dock
+00HM947 N Planar i3-4030U W8P, N-AMT, N-TPM, Dock
+00HM948 N Planar i3-4030U W8S, N-AMT, Y-TPM, Dock
+00HM949 N Planar i3-4030U W8S, N-AMT, N-TPM, Dock
+00HM950 N Planar i5-4210U NOK, N-AMT, Y-TPM, Dock
+00HM951 N Planar i5-4210U NOK, N-AMT, N-TPM, Dock
+00HM952 N Planar i5-4210U W8P, N-AMT, Y-TPM, Dock
+00HM953 N Planar i5-4210U W8P, N-AMT, N-TPM, Dock
+00HM954 N Planar i5-4210U W8S, N-AMT, Y-TPM, Dock
+00HM955 N Planar i5-4210U W8S, N-AMT, N-TPM, Dock
+00HN804 N Planar Celeron 2980U NOK, N-AMT, Y-TPM, Dock
+00HN805 N Planar Celeron 2980U NOK, N-AMT, N-TPM, Dock
+00HN806 N Planar Celeron 2980U W8P, N-AMT, Y-TPM, Dock
+00HN807 N Planar Celeron 2980U W8P, N-AMT, N-TPM, Dock
+00HN808 N Planar Celeron 2980U W8S, N-AMT, Y-TPM, Dock
+00HN809 N Planar Celeron 2980U W8S, N-AMT, N-TPM, Dock
+04X5144 N Planar i3-4010U W7/N-OS, N-AMT, Y-TPM, Dock
+04X5145 N Planar i3-4010U W7/N-OS, N-AMT, N-TPM, Dock
+04X5146 N Planar i5-4200U W7/N-OS, N-AMT, Y-TPM, Dock
+04X5147 N Planar i5-4200U W7/N-OS, N-AMT, N-TPM, Dock
+04X5148 N Planar i5-4300U W7/N-OS, N-AMT, Y-TPM, Dock
+04X5149 N Planar i5-4300U W7/N-OS, N-AMT, N-TPM, Dock
+04X5150 N Planar i7-4600U W7/N-OS, N-AMT, Y-TPM, Dock
+04X5151 N Planar i7-4600U W7/N-OS, N-AMT, N-TPM, Dock
+04X5152 N Planar i5-4300U W7/N-OS, Y-AMT, Y-TPM, Dock
+04X5153 N Planar i5-4300U W7/N-OS, Y-AMT, N-TPM, Dock
+04X5154 N Planar i7-4600U W7/N-OS, Y-AMT, Y-TPM, Dock
+04X5155 N Planar i7-4600U W7/N-OS, Y-AMT, N-TPM, Dock
+04X5156 N Planar i3-4010U W8-PRO, N-AMT, Y-TPM, Dock
+04X5157 N Planar i3-4010U W8-PRO, N-AMT, N-TPM, Dock
+04X5158 N Planar i5-4200U W8-PRO, N-AMT, Y-TPM, Dock
+04X5159 N Planar i5-4200U W8-PRO, N-AMT, N-TPM, Dock
+04X5160 N Planar i5-4300U W8-PRO, N-AMT, Y-TPM, Dock
+04X5161 N Planar i5-4300U W8-PRO, N-AMT, N-TPM, Dock
+04X5162 N Planar i7-4600U W8-PRO, N-AMT, Y-TPM, Dock
+04X5163 N Planar i7-4600U W8-PRO, N-AMT, N-TPM, Dock
+04X5164 N Planar i5-4300U W8-PRO, Y-AMT, Y-TPM, Dock
+04X5165 N Planar i5-4300U W8-PRO, Y-AMT, N-TPM, Dock
+04X5166 N Planar i7-4600U W8-PRO, Y-AMT, Y-TPM, Dock
+04X5167 N Planar i7-4600U W8-PRO, Y-AMT, N-TPM, Dock
+04X5168 N Planar i3-4010U W8-STD, N-AMT, Y-TPM, Dock
+04X5169 N Planar i3-4010U W8-STD, N-AMT, N-TPM, Dock
+04X5170 N Planar i5-4200U W8-STD, N-AMT, Y-TPM, Dock
+04X5171 N Planar i5-4200U W8-STD, N-AMT, N-TPM, Dock
+04X5172 N Planar i5-4300U W8-STD, N-AMT, Y-TPM, Dock
+04X5173 N Planar i5-4300U W8-STD, N-AMT, N-TPM, Dock
+04X5174 N Planar i7-4600U W8-STD, N-AMT, Y-TPM, Dock
+04X5175 N Planar i7-4600U W8-STD, N-AMT, N-TPM, Dock
+04X5176 N Planar i5-4300U W8-STD, Y-AMT, Y-TPM, Dock
+04X5177 N Planar i5-4300U W8-STD, Y-AMT, N-TPM, Dock
+04X5178 N Planar i7-4600U W8-STD, Y-AMT, Y-TPM, Dock
+04X5179 N Planar i7-4600U W8-STD, Y-AMT, N-TPM, Dock
+
+BEZELS
+04X4004 N Front Strap Bezel ASM for Touch
+04X5180 N Keyboard Bezel ASM w/ FP
+04X5181 N Keyboard Bezel ASM w/o FP
+04X5182 N Keyboard Bezel ASM w/ FP w/NFC
+04X5183 N Keyboard Bezel ASM w/o FP w/NFC
+04X5360 N LCD Bezel w/ camera
+04X5361 N LCD Bezel w/o camera
+04X5362 N I Shape Bezel ASM for Touch
+04X5387 N Front Metal Bezel ASM for Touch
+
+BRACKETS
+00HM154 N Bracket Touch glass for FHD
+04X5388 N Bracket Touch glass
+
+CABLES
+00HM134 N LCD cable <Amphenol> for FHD - Primary
+04X0864 2 SATA Cable <Amphenol> - Primary
+04X0865 2 SATA Cable <Foxconn> - Secondary
+04X0875 N Camera cable <Amphenol> - Primary
+04X0876 N Camera cable <Luxshare-ICT> - Secondary
+04X0877 N LCD cable <Amphenol> - Primary
+04X0878 N LCD cable <Luxshare-ICT> - Secondary
+04X3939 N M.2 Cable - Amphenol - Primary
+04X3940 N M.2 Cable - Luxshare-ICT - Secondary
+04X5133 N Smart card FPC cable (Amphenol) - Primary
+04X5134 N Smart card FPC cable (Luxshare-ICT) - Secondary
+04X5135 N Smart card FPC cable (Hong Yuen) -Secondary
+04X5252 N Camera cable for Touch <Amphenol> - Primary
+04X5253 N Camera cable for Touch <Luxshare-ICT> - Secondary
+04X5357 N DC-in Connector <TE> with Cable <Amphenol>
+04X5358 N DC-in Connector <TE> with Cable <Luxshare-ICT>
+04Y1660 N FPC for ClickPad Kit
+04Y1661 N FPC for ClickPad Kit w/o FPR
+04Y1680 N DC-in Connector with Cable <Amphenol> - Primary
+04Y1681 N DC-in Connector with Cable <Luxshare-ICT> Secondary
+
+CAMERAS
+04X0294 N Chicony 720P OV9726 + SPCA2082A IPEX - Primary
+04X0297 N Bison 720P OV9726 + SPCA2082A IPEX - Secondary
+04X0299 N Liteon 720P IMX188 + SPCA2082A IPEX - Secondary
+
+COVERS
+04X5184 2 Base Cover ASM
+04X5251 N LCD Rear Cover ASM_RG/WV Touch
+04X5359 N Rear Cover ASM
+
+HDD'S
+00HM707 2 5400RPM 500GB 7mm AF 6Gb/s
+04X0534 2 5400RPM 500GB HGST JAGUAR-B7-500 - Primary
+04X0535 2 5400RPM 500GB Toshiba AQUARIUS-B SLIM-500 - Secondary
+04X0537 2 5400RPM 1TB HGST JAGUAR-BS-1000 - Primay
+04X0538 2 5400RPM 1TB Toshiba AQUARIUS-B-1000 - Secondary
+04X0540 2 7200RPM 320GB HGST JAGUAR-C7-320
+04X0544 2 7200RPM 500GB HGST JAGUAR-C7-500
+04X3806 2 5400RPM 500GB WD MN500S-500
+04X3807 2 5400RPM 1TB WD ML500M-1000
+04X3808 2 7200RPM 320GB Toshiba AQUARIUS-C Slim-320
+04X3809 2 7200RPM 500GB Toshiba AQUARIUS-C Slim-500
+04X3837 2 7200RPM 320GB TCG OPAL HGST JAGUAR-C7LO-320
+04X4500 2 7200RPM Limited OPAL 500GB 7mm AF 6Gb/s HGST JAGUAR-C7LO-500
+
+SSD'S
+04X3803 2 SSD 128GB 7.0mm 6Gb/s Toshiba 2.5" HG5d-128 - Primary
+04X3805 2 SSD 256GB 7.0mm 6Gb/s Samsung 2.5" PM841-256 eDrive 6G
+04X3933 2 SSD 512GB 7.0mm 6Gb/s Samsung 2.5" PM841-512
+04X4042 2 SSD 128GB 7.0mm 6Gb/s Samsung 2.5" PM841-128 - Secondary
+04X4430 2 SSD 180GB OPAL 7mm Intel 2.5"Sierra Star-180 OPAL 6Gb/s
+04X4431 2 SSD 240GB OPAL 7mm Intel 2.5"Sierra Star-240 OPAL 6Gb/s
+04X4468 2 SSD 128GB 7mm Samsung 2.5" PM851-128 6Gb/s - primary
+04X4471 2 SSD 512GB 7mm Samsung 2.5" PM851-512 6Gb/s - primary
+04X4473 2 SSD 128GB 7mm Toshiba 2.5"HG6-128 6Gb/s - secondary
+04X4476 2 SSD 512GB 7mm Toshiba 2.5"HG6-512 6Gb/s - secondary
+
+mSATA DRIVES
+04X4456 N SSD 16GB SanDisk M.2 2242 U110-16
+04Y2169 N SSD 16GB 2242-D3-B-M LiteOn M.2 L6G-16
+04Y2197 N SSD 24GB 2242-S3-B-M Toshiba M.2 CG4-24
+45N8465 N SSD 16GB 2242-S3-B-M SanDisk M.2 U110-16
+
+THERMALS
+00HM192 N FAN <Toshiba>
+04X3840 N FAN <Furukawa>
+
+HINGES
+04X5363 N Hinge Kit <Katoh> - Primary
+04X5364 N Hinge Kit <SZS> - Secondary
+04X5365 N Hinge Kit <LianHong> - Secondary
+04X5366 N Hinge Kit touch <SZS> - Primary
+04X5367 N Hinge Kit touch <Katoh> - Secondary
+04X5368 N Hinge Kit touch <Lianhong> - Secondary
+
+KEYBOARDS
+04X0177 N CS13X Backlit KBD US English Chicony - Primary
+04X0178 N CS13X Backlit KBD Canadian Frence Acnor Chicony - Primary
+04X0179 N CS13X Backlit KBD Canadian French 058 Chicony - Primary
+04X0180 N CS13X Backlit KBD Latin Spanish Chicony - Primary
+04X0181 N CS13X Backlit KBD Brazilian Chicony - Primary
+04X0182 N CS13X Backlit KBD Arabic Chicony - Primary
+04X0183 N CS13X Backlit KBD Belgian Chicony - Primary
+04X0184 N CS13X Backlit KBD Bulgarian Chicony - Primary
+04X0185 N CS13X Backlit KBD Czech Chicony - Primary
+04X0186 N CS13X Backlit KBD Danish Chicony - Primary
+04X0187 N CS13X Backlit KBD Spanish Chicony - Primary
+04X0188 N CS13X Backlit KBD French Chicony - Primary
+04X0189 N CS13X Backlit KBD German Chicony - Primary
+04X0190 N CS13X Backlit KBD Greek Chicony - Primary
+04X0191 N CS13X Backlit KBD Hebrew Chicony - Primary
+04X0192 N CS13X Backlit KBD Hungarian Chicony - Primary
+04X0193 N CS13X Backlit KBD Icelandic Chicony - Primary
+04X0194 N CS13X Backlit KBD Italian Chicony - Primary
+04X0195 N CS13X Backlit KBD Kazakhstan Chicony - Primary
+04X0196 N CS13X Backlit KBD Netherlands Chicony - Primary
+04X0197 N CS13X Backlit KBD Norwegian Chicony - Primary
+04X0198 N CS13X Backlit KBD Polish Chicony - Primary
+04X0199 N CS13X Backlit KBD Portuguese Chicony - Primary
+04X0200 N CS13X Backlit KBD Russian Chicony - Primary
+04X0201 N CS13X Backlit KBD Slovak Chicony - Primary
+04X0202 N CS13X Backlit KBD Slovenian Chicony - Primary
+04X0203 N CS13X Backlit KBD Swedish/Finnish Chicony - Primary
+04X0204 N CS13X Backlit KBD Swiss Chicony - Primary
+04X0205 N CS13X Backlit KBD Turkish Chicony - Primary
+04X0206 N CS13X Backlit KBD UK English Chicony - Primary
+04X0207 N CS13X Backlit KBD US International Chicony - Primary
+04X0208 N CS13X Backlit KBD Japanese Chicony - Primary
+04X0209 N CS13X Backlit KBD Korean Chicony - Primary
+04X0210 N CS13X Backlit KBD Traditional Chinese Chicony - Primary
+04X0211 N CS13X Backlit KBD Thai Chicony - Primary
+04X0212 N CS13X Backlit KBD Turkish-F Chicony - Primary
+04X0213 N CS13X Backlit KBD Indian Chicony - Primary
+04X0215 N CS13X Backlit KBD US English Liteon - Secondary
+04X0216 N CS13X Backlit KBD Canadian Frence Acnor Liteon - Secondary
+04X0217 N CS13X Backlit KBD Canadian French 058 Liteon - Secondary
+04X0218 N CS13X Backlit KBD Latin Spanish Liteon - Secondary
+04X0219 N CS13X Backlit KBD Brazilian Liteon - Secondary
+04X0220 N CS13X Backlit KBD Arabic Liteon - Secondary
+04X0221 N CS13X Backlit KBD Belgian Liteon - Secondary
+04X0222 N CS13X Backlit KBD Bulgarian Liteon - Secondary
+04X0223 N CS13X Backlit KBD Czech Liteon - Secondary
+04X0224 N CS13X Backlit KBD Danish Liteon - Secondary
+04X0225 N CS13X Backlit KBD Spanish Liteon - Secondary
+04X0226 N CS13X Backlit KBD French Liteon - Secondary
+04X0227 N CS13X Backlit KBD German Liteon - Secondary
+04X0228 N CS13X Backlit KBD Greek Liteon - Secondary
+04X0229 N CS13X Backlit KBD Hebrew Liteon - Secondary
+04X0230 N CS13X Backlit KBD Hungarian Liteon - Secondary
+04X0231 N CS13X Backlit KBD Icelandic Liteon - Secondary
+04X0232 N CS13X Backlit KBD Italian Liteon - Secondary
+04X0233 N CS13X Backlit KBD Kazakhstan Liteon - Secondary
+04X0234 N CS13X Backlit KBD Netherlands Liteon - Secondary
+04X0235 N CS13X Backlit KBD Norwegian Liteon - Secondary
+04X0236 N CS13X Backlit KBD Polish Liteon - Secondary
+04X0237 N CS13X Backlit KBD Portuguese Liteon - Secondary
+04X0238 N CS13X Backlit KBD Russian Liteon - Secondary
+04X0239 N CS13X Backlit KBD Slovak Liteon - Secondary
+04X0240 N CS13X Backlit KBD Slovenian Liteon - Secondary
+04X0241 N CS13X Backlit KBD Swedish/Finnish Liteon - Secondary
+04X0242 N CS13X Backlit KBD Swiss Liteon - Secondary
+04X0243 N CS13X Backlit KBD Turkish Liteon - Secondary
+04X0244 N CS13X Backlit KBD UK English Liteon - Secondary
+04X0245 N CS13X Backlit KBD US International Liteon - Secondary
+04X0246 N CS13X Backlit KBD Japanese Liteon - Secondary
+04X0247 N CS13X Backlit KBD Korean Liteon - Secondary
+04X0248 N CS13X Backlit KBD Traditional Chinese Liteon - Secondary
+04X0249 N CS13X Backlit KBD Thai Liteon - Secondary
+04X0250 N CS13X Backlit KBD Turkish-F Liteon - Secondary
+04X0251 N CS13X Backlit KBD Indian Liteon - Secondary
+04Y0900 N CS13X-KBD US English Chicony - Primary
+04Y0901 N CS13X-KBD Canadian Frence Acnor Chicony - Primary
+04Y0902 N CS13X-KBD Canadian French 058 Chicony - Primary
+04Y0903 N CS13X-KBD Latin Spanish Chicony - Primary
+04Y0904 N CS13X-KBD Brazilian Chicony - Primary
+04Y0905 N CS13X-KBD Arabic Chicony - Primary
+04Y0906 N CS13X-KBD Belgian Chicony - Primary
+04Y0907 N CS13X-KBD Bulgarian Chicony - Primary
+04Y0908 N CS13X-KBD Czech Chicony - Primary
+04Y0909 N CS13X-KBD Danish Chicony - Primary
+04Y0910 N CS13X-KBD Spanish Chicony - Primary
+04Y0911 N CS13X-KBD French Chicony - Primary
+04Y0912 N CS13X-KBD German Chicony - Primary
+04Y0913 N CS13X-KBD Greek Chicony - Primary
+04Y0914 N CS13X-KBD Hebrew Chicony - Primary
+04Y0915 N CS13X-KBD Hungarian Chicony - Primary
+04Y0916 N CS13X-KBD Icelandic Chicony - Primary
+04Y0917 N CS13X-KBD Italian Chicony - Primary
+04Y0918 N CS13X-KBD Kazakhstan Chicony - Primary
+04Y0919 N CS13X-KBD Netherlands Chicony - Primary
+04Y0920 N CS13X-KBD Norwegian Chicony - Primary
+04Y0921 N CS13X-KBD Polish Chicony - Primary
+04Y0922 N CS13X-KBD Portuguese Chicony - Primary
+04Y0923 N CS13X-KBD Russian Chicony - Primary
+04Y0924 N CS13X-KBD Slovak Chicony - Primary
+04Y0925 N CS13X-KBD Slovenian Chicony - Primary
+04Y0926 N CS13X-KBD Swedish/Finnish Chicony - Primary
+04Y0927 N CS13X-KBD Swiss Chicony - Primary
+04Y0928 N CS13X-KBD Turkish Chicony - Primary
+04Y0929 N CS13X-KBD UK English Chicony - Primary
+04Y0930 N CS13X-KBD US International Chicony - Primary
+04Y0931 N CS13X-KBD Japanese Chicony - Primary
+04Y0932 N CS13X-KBD Korean Chicony - Primary
+04Y0933 N CS13X-KBD Traditional Chinese Chicony - Primary
+04Y0934 N CS13X-KBD Thai Chicony - Primary
+04Y0935 N CS13X-KBD Turkish-F Chicony - Primary
+04Y0936 N CS13X-KBD Indian Chicony - Primary
+04Y0937 N CS13X-KBD Estonian Chicony - Primary
+04Y0938 N CS13X-KBD US English Liteon - Secondary
+04Y0939 N CS13X-KBD Canadian Frence Acnor Liteon - Secondary
+04Y0940 N CS13X-KBD Canadian French 058 Liteon - Secondary
+04Y0941 N CS13X-KBD Latin Spanish Liteon - Secondary
+04Y0942 N CS13X-KBD Brazilian Liteon - Secondary
+04Y0943 N CS13X-KBD Arabic Liteon - Secondary
+04Y0944 N CS13X-KBD Belgian Liteon - Secondary
+04Y0945 N CS13X-KBD Bulgarian Liteon - Secondary
+04Y0946 N CS13X-KBD Czech Liteon - Secondary
+04Y0947 N CS13X-KBD Danish Liteon - Secondary
+04Y0948 N CS13X-KBD Spanish Liteon - Secondary
+04Y0949 N CS13X-KBD French Liteon - Secondary
+04Y0950 N CS13X-KBD German Liteon - Secondary
+04Y0951 N CS13X-KBD Greek Liteon - Secondary
+04Y0952 N CS13X-KBD Hebrew Liteon - Secondary
+04Y0953 N CS13X-KBD Hungarian Liteon - Secondary
+04Y0954 N CS13X-KBD Icelandic Liteon - Secondary
+04Y0955 N CS13X-KBD Italian Liteon - Secondary
+04Y0956 N CS13X-KBD Kazakhstan Liteon - Secondary
+04Y0957 N CS13X-KBD Netherlands Liteon - Secondary
+04Y0958 N CS13X-KBD Norwegian Liteon - Secondary
+04Y0959 N CS13X-KBD Polish Liteon - Secondary
+04Y0960 N CS13X-KBD Portuguese Liteon - Secondary
+04Y0961 N CS13X-KBD Russian Liteon - Secondary
+04Y0962 N CS13X-KBD Slovak Liteon - Secondary
+04Y0963 N CS13X-KBD Slovenian Liteon - Secondary
+04Y0964 N CS13X-KBD Swedish/Finnish Liteon - Secondary
+04Y0965 N CS13X-KBD Swiss Liteon - Secondary
+04Y0966 N CS13X-KBD Turkish Liteon - Secondary
+04Y0967 N CS13X-KBD UK English Liteon - Secondary
+04Y0968 N CS13X-KBD US International Liteon - Secondary
+04Y0969 N CS13X-KBD Japanese Liteon - Secondary
+04Y0970 N CS13X-KBD Korean Liteon - Secondary
+04Y0971 N CS13X-KBD Traditional Chinese Liteon - Secondary
+04Y0972 N CS13X-KBD Thai Liteon - Secondary
+04Y0973 N CS13X-KBD Turkish-F Liteon - Secondary
+04Y0974 N CS13X-KBD Indian Liteon - Secondary
+04Y0975 N CS13X-KBD Estonian Liteon - Secondary
+04Y0980 N CS13X-KBD Canadian French English Bilingual Chicony - Primary
+04Y0984 N CS13X-KBD Canadian French English Bilingual Liteon - Secondary
+
+BACKLIT KEYBOARDS
+04X0214 N CS13X Backlit KBD Estonian Chicony - Primary
+04X0252 N CS13X Backlit KBD Estonian Liteon - Secondary
+04X6385 N CS13X-KBD Lithuanian Chicony - Primary
+04X6386 N CS13X-BL KBD Lithuanian Chicony Backlit - Primary
+04X6387 N CS13X-KBD Lithuanian Liteon - Secondary
+04X6388 N CS13X-BL KBD Lithuanian Liteon Backlit - Secondary
+
+LINE CORDS
+42T5004 1 Power Cord 1.0M - US/Canada
+42T5008 1 Power Cord 1.0M - US/Canada
+42T5014 1 Power Cord 1.0M - Japan
+42T5020 1 Power Cord 1.0M - Argentina
+42T5047 1 Power Cord 1.0M - Italy
+42T5050 1 Power Cord 1.0M - Australia/New Zealand
+42T5071 1 Power Cord 1.0M - Taiwan
+42T5077 1 Power Cord 1.0M - Korea
+42T5180 1 Power Cord 1.0M - Brazil
+45N0381 1 LINETEK 3pin Brazil power cord
+42T5029 1 Power Cord 1.0M - Germany
+42T5035 1 Power Cord 1.0M - UK
+42T5041 1 Power Cord 1.0M - Denmark
+42T5044 1 Power Cord 1.0M - Switzerland
+42T5056 1 Power Cord 1.0M - South Africa
+42T5062 1 Power Cord 1.0M - Israel
+42T5065 1 Power Cord 1.0M - China
+42T5083 1 Power Cord 1.0M - India
+
+MEMORY
+03X6655 2 2GB DDR3L 1600 SODIMM
+03X6656 2 4GB DDR3L 1600 SODIMM
+03X6657 2 8GB DDR3L 1600 SODIMM
+
+LCD'S
+00HM111 N LGD 12.5"FHD IPS AG panel
+04X0324 N AUO 12.5"HD AG LCD panel - Primary
+04X0325 N LGD 12.5"HD AG LCD panel - Secondary
+04X0433 N IVO 12.5"HD AG LCD panel - Secondary
+04X0437 N LGD 12.5"HD/IPS AG LCD
+04X1765 N BOE 12.5"HD AG panel BOE MODEL HB125WX1-200
+
+RECOVERY MEDIA
+00HM149 N LCD TPS ASM <JTOUCH> + PCB<ELAN> Primary
+00HM150 N LCD TPS ASM <GUNZE> + PCB <ELAN> Secondary
+00HN747 N LCD TPS ASM < GUNZE >+ PCB < ELAN > Primary
+00HN748 N LCD TPS ASM < JTOUCH >+ PCB < ELAN > Secondary
+04X3935 N LCD<GUNZE+ PCB <ELAN>
+00EU210 1 DVD Win7PROx32 SP1 HK/EN
+00EU211 1 DVD Win7PROx32 SP1 JP
+00EU212 1 DVD Win7PROx32 SP1 SP
+00EU213 1 DVD Win7PROx32 SP1 US
+00EU214 1 DVD Win7PROx32 SP1 CS
+00EU215 1 DVD Win7PROx32 SP1 FR
+00EU216 1 DVD Win7PROx32 SP1 GR
+00EU217 1 DVD Win7PROx32 SP1 C&L EMEA
+00EU218 1 DVD Win7PROx32 SP1 C&L Nordics
+00EU219 1 DVD Win7PROx64 SP1 AR/EN
+00EU220 1 DVD Win7PROx64 SP1 BR
+00EU221 1 DVD Win7PROx64 SP1 CS
+00EU222 1 DVD Win7PROx64 SP1 CT/EN
+00EU223 1 DVD Win7PROx64 SP1 CZ/EN
+00EU224 1 DVD Win7PROx64 SP1 FR
+00EU225 1 DVD Win7PROx64 SP1 GK/EN
+00EU226 1 DVD Win7PROx64 SP1 GR
+00EU227 1 DVD Win7PROx64 SP1 HB/EN
+00EU228 1 DVD Win7PROx64 SP1 HK/EN
+00EU229 1 DVD Win7PROx64 SP1 HU/EN
+00EU230 1 DVD Win7PROx64 SP1 JP
+00EU231 1 DVD Win7PROx64 SP1 KR/EN
+00EU232 1 DVD Win7PROx64 SP1 PL
+00EU233 1 DVD Win7PROx64 SP1 PO/EN
+00EU234 1 DVD Win7PROx64 SP1 RO/EN
+00EU235 1 DVD Win7PROx64 SP1 RU
+00EU236 1 DVD Win7PROx64 SP1 SK/EN
+00EU237 1 DVD Win7PROx64 SP1 SP
+00EU238 1 DVD Win7PROx64 SP1 SR/EN
+00EU239 1 DVD Win7PROx64 SP1 TR/EN
+00EU240 1 DVD Win7PROx64 SP1 US
+00EU241 1 DVD Win7PROx64 SP1 C&L EMEA
+00EU242 1 DVD Win7PROx64 SP1 C&L Nordics
+00EU243 1 DVD Win7PROx64 SP1 C&L SL/CR/EN
+00EU244 1 DVD Win7ULTx32 SP1 US
+00EU245 1 DVD Win7ULTx64 SP1 US
+00HR569 1 DVD Win8.1PROx64 CT/EN
+00HR570 1 DVD Win8.1PROx64 CZ/EN
+00HR572 1 DVD Win8.1PROx64 GK/EN
+00HR576 1 DVD Win8.1PROx64 HU/EN
+00HR578 1 DVD Win8.1PROx64 KR/EN
+00HR580 1 DVD Win8.1PROx64 PO/EN
+00HR581 1 DVD Win8.1PROx64 RO/EN
+00HR583 1 DVD Win8.1PROx64 SK/EN
+00HR585 1 DVD Win8.1PROx64 SR/EN
+00HR590 1 DVD Win8.1PROx64 C&L SL/CR/EN
+00HR594 1 DVD Win8.1SLx64 PO/EN
+00HR597 1 DVD Win8.1SLx64 SR/EN
+00HR601 1 DVD Win8.1x64 CT/EN
+00HR602 1 DVD Win8.1x64 CZ/EN
+00HR604 1 DVD Win8.1x64 GK/EN
+00HR608 1 DVD Win8.1x64 HU/EN
+00HR610 1 DVD Win8.1x64 KR/EN
+00HR612 1 DVD Win8.1x64 PO/EN
+00HR613 1 DVD Win8.1x64 RO/EN
+00HR614 1 DVD Win8.1x64 SK/EN
+00HR619 1 DVD Win8.1x64 C&L SL/CR/EN
+00HX093 1 DVD Win8x64 CT/EN
+00HX094 1 DVD Win8x64 CZ/EN
+00HX095 1 DVD Win8x64 FR
+00HX096 1 DVD Win8x64 GK/EN
+00HX097 1 DVD Win8x64 GR
+00HX098 1 DVD Win8x64 HB/EN
+00HX099 1 DVD Win8x64 HK/EN
+00HX100 1 DVD Win8x64 HU/EN
+00HX101 1 DVD Win8x64 JP
+00HX102 1 DVD Win8x64 KR/EN
+00HX103 1 DVD Win8x64 PL
+00HX104 1 DVD Win8x64 PO/EN
+00HX105 1 DVD Win8x64 RO/EN
+00HX106 1 DVD Win8x64 SK/EN
+00HX107 1 DVD Win8x64 SP
+00HX108 1 DVD Win8x64 US
+00HX109 1 DVD Win8x64 C&L EMEA
+00HX110 1 DVD Win8x64 C&L Nordics
+00HX111 1 DVD Win8x64 C&L SL/CR/EN
+00HX112 1 DVD Win8CNx64 CS
+00HX113 1 DVD Win8PROx64 AR/EN
+00HX113 1 DVD Win8PROx64 AR/EN
+00HX114 1 DVD Win8PROx64 BR
+00HX114 1 DVD Win8PROx64 BR
+00HX115 1 DVD Win8PROx64 CS
+00HX116 1 DVD Win8PROx64 CT/EN
+00HX116 1 DVD Win8PROx64 CT/EN
+00HX117 1 DVD Win8PROx64 CZ/EN
+00HX117 1 DVD Win8PROx64 CZ/EN
+00HX118 1 DVD Win8PROx64 FR
+00HX118 1 DVD Win8PROx64 FR
+00HX119 1 DVD Win8PROx64 GK/EN
+00HX119 1 DVD Win8PROx64 GK/EN
+00HX120 1 DVD Win8PROx64 GR
+00HX120 1 DVD Win8PROx64 GR
+00HX121 1 DVD Win8PROx64 HB/EN
+00HX121 1 DVD Win8PROx64 HB/EN
+00HX122 1 DVD Win8PROx64 HK/EN
+00HX122 1 DVD Win8PROx64 HK/EN
+00HX123 1 DVD Win8PROx64 HU/EN
+00HX123 1 DVD Win8PROx64 HU/EN
+00HX124 1 DVD Win8PROx64 JP
+00HX124 1 DVD Win8PROx64 JP
+00HX125 1 DVD Win8PROx64 KR/EN
+00HX125 1 DVD Win8PROx64 KR/EN
+00HX126 1 DVD Win8PROx64 PL
+00HX126 1 DVD Win8PROx64 PL
+00HX127 1 DVD Win8PROx64 PO/EN
+00HX127 1 DVD Win8PROx64 PO/EN
+00HX128 1 DVD Win8PROx64 RO/EN
+00HX128 1 DVD Win8PROx64 RO/EN
+00HX129 1 DVD Win8PROx64 RU
+00HX129 1 DVD Win8PROx64 RU
+00HX130 1 DVD Win8PROx64 SK/EN
+00HX130 1 DVD Win8PROx64 SK/EN
+00HX131 1 DVD Win8PROx64 SP
+00HX131 1 DVD Win8PROx64 SP
+00HX132 1 DVD Win8PROx64 SR/EN
+00HX132 1 DVD Win8PROx64 SR/EN
+00HX133 1 DVD Win8PROx64 TR/EN
+00HX133 1 DVD Win8PROx64 TR/EN
+00HX134 1 DVD Win8PROx64 US
+00HX134 1 DVD Win8PROx64 US
+00HX135 1 DVD Win8PROx64 C&L EMEA
+00HX135 1 DVD Win8PROx64 C&L EMEA
+00HX136 1 DVD Win8PROx64 C&L Nordics
+00HX136 1 DVD Win8PROx64 C&L Nordics
+00HX137 1 DVD Win8PROx64 C&L SL/CR/EN
+00HX137 1 DVD Win8PROx64 C&L SL/CR/EN
+00HX138 1 DVD Win8SLx64 AR/EN
+00HX139 1 DVD Win8SLx64 BR
+00HX140 1 DVD Win8SLx64 FR
+00HX141 1 DVD Win8SLx64 PO/EN
+00HX142 1 DVD Win8SLx64 RU
+00HX143 1 DVD Win8SLx64 SP
+00HX144 1 DVD Win8SLx64 SR/EN
+00HX145 1 DVD Win8SLx64 TR/EN
+00HX146 1 DVD Win8SLx64 US
+00HX147 1 DVD Win8x64 AR/EN
+00HX148 1 DVD Win8.1CNx64 CS
+00HX149 1 DVD Win8.1PROx64 AR/EN
+00HX149 1 DVD Win8.1PROx64 AR/EN
+00HX150 1 DVD Win8.1PROx64 BR
+00HX150 1 DVD Win8.1PROx64 BR
+00HX151 1 DVD Win8.1PROx64 CS
+00HX152 1 DVD Win8.1PROx64 FR
+00HX152 1 DVD Win8.1PROx64 FR
+00HX153 1 DVD Win8.1PROx64 GR
+00HX153 1 DVD Win8.1PROx64 GR
+00HX154 1 DVD Win8.1PROx64 HB/EN
+00HX154 1 DVD Win8.1PROx64 HB/EN
+00HX155 1 DVD Win8.1PROx64 HK/EN
+00HX155 1 DVD Win8.1PROx64 HK/EN
+00HX156 1 DVD Win8.1PROx64 JP
+00HX156 1 DVD Win8.1PROx64 JP
+00HX157 1 DVD Win8.1PROx64 PL
+00HX157 1 DVD Win8.1PROx64 PL
+00HX158 1 DVD Win8.1PROx64 RU
+00HX158 1 DVD Win8.1PROx64 RU
+00HX159 1 DVD Win8.1PROx64 SP
+00HX159 1 DVD Win8.1PROx64 SP
+00HX160 1 DVD Win8.1PROx64 TR/EN
+00HX160 1 DVD Win8.1PROx64 TR/EN
+00HX161 1 DVD Win8.1PROx64 US
+00HX161 1 DVD Win8.1PROx64 US
+00HX162 1 DVD Win8.1PROx64 C&L EMEA
+00HX162 1 DVD Win8.1PROx64 C&L EMEA
+00HX163 1 DVD Win8.1PROx64 C&L Nordics
+00HX163 1 DVD Win8.1PROx64 C&L Nordics
+00HX164 1 DVD Win8.1SLx64 AR/EN
+00HX165 1 DVD Win8.1SLx64 BR
+00HX166 1 DVD Win8.1SLx64 FR
+00HX167 1 DVD Win8.1SLx64 RU
+00HX168 1 DVD Win8.1SLx64 SP
+00HX169 1 DVD Win8.1SLx64 TR/EN
+00HX170 1 DVD Win8.1SLx64 US
+00HX171 1 DVD Win8.1x64 AR/EN
+00HX172 1 DVD Win8.1x64 FR
+00HX173 1 DVD Win8.1x64 GR
+00HX174 1 DVD Win8.1x64 HB/EN
+00HX175 1 DVD Win8.1x64 HK/EN
+00HX176 1 DVD Win8.1x64 JP
+00HX177 1 DVD Win8.1x64 PL
+00HX178 1 DVD Win8.1x64 SP
+00HX179 1 DVD Win8.1x64 US
+00HX180 1 DVD Win8.1x64 C&L EMEA
+00HX181 1 DVD Win8.1x64 C&L Nordics
+
+MECHANICALS AND MISC
+00HN910 N Planar Misc Kit for WV1/WV2
+04X0866 N Speaker ASM <KURODA> - Primary
+04X0869 N SIM TRAY <JAE>
+04X1847 N Antenna Dummy for WLAN ONLY
+04X3827 N 3rd NGFF SSD adapter
+04X5136 N M.2 Cover
+04X5353 N Base Misc Kit
+04X5354 N System Misc Kit
+04X5355 N KBD Spacer
+04X5356 N Speaker ASM <Onkyo> - Secondary
+04X5373 N Screw&Tape kit
+04X5439 N No Battery Spacer
