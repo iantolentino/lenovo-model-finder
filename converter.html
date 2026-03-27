@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>FRU Data Converter</title>
+    <style>
+        body { font-family: monospace; margin: 2rem; }
+        textarea { width: 100%; height: 300px; margin-bottom: 1rem; }
+        button { padding: 0.5rem 1rem; font-size: 1rem; cursor: pointer; }
+        pre { background: #f0f0f0; padding: 1rem; overflow: auto; max-height: 400px; }
+    </style>
+</head>
+<body>
+    <h2>FRU Data Converter</h2>
+    <p>Paste the raw data below, then click "Generate JSON".</p>
+    <textarea id="rawData" placeholder="Paste the raw FRU data here..."></textarea>
+    <button id="convert">Generate JSON</button>
+    <pre id="output"></pre>
+
+    <script>
+        function parseFRUData(rawText) {
+            const lines = rawText.split(/\r?\n/);
+            const parts = [];
+            let currentModel = null;
+            let currentCategory = "General";
+
+            const isDataLine = (line) => {
+                const trimmed = line.trim();
+                if (!trimmed) return false;
+                return /^[A-Z0-9]+\s+[0-9N]+\s+.+$/i.test(trimmed);
+            };
+
+            for (let line of lines) {
+                const trimmed = line.trim();
+                if (!trimmed) continue;
+
+                // Model header: "x240 above", "x250 below", etc.
+                let modelMatch = trimmed.match(/^(x\d{3})\s+(above|below)$/i);
+                if (modelMatch) {
+                    currentModel = modelMatch[1].toUpperCase();
+                    currentCategory = "General";
+                    continue;
+                }
+
+                // Fallback: "X240 FRU BOM" or "ThinkPad X260 FRU BOM"
+                if (!currentModel) {
+                    let altMatch = trimmed.match(/(X\d{3})\s+FRU BOM/i);
+                    if (!altMatch) altMatch = trimmed.match(/ThinkPad\s+(X\d{3})\s+FRU BOM/i);
+                    if (altMatch) {
+                        currentModel = altMatch[1].toUpperCase();
+                        currentCategory = "General";
+                        continue;
+                    }
+                }
+
+                // Category: all caps and not a data line
+                if (trimmed === trimmed.toUpperCase() && trimmed.length > 2 && !isDataLine(trimmed)) {
+                    currentCategory = trimmed;
+                    continue;
+                }
+
+                // Data line parsing
+                const dataMatch = trimmed.match(/^([A-Z0-9]+)\s+([0-9N]+)\s+(.+)$/i);
+                if (dataMatch) {
+                    parts.push({
+                        fru_pn: dataMatch[1],
+                        cru_id: dataMatch[2],
+                        description: dataMatch[3],
+                        model: currentModel || "Unknown",
+                        category: currentCategory
+                    });
+                }
+            }
+            return parts;
+        }
+
+        document.getElementById('convert').addEventListener('click', () => {
+            const raw = document.getElementById('rawData').value;
+            if (!raw.trim()) {
+                alert('Please paste the raw data first.');
+                return;
+            }
+            const parts = parseFRUData(raw);
+            const jsonStr = JSON.stringify(parts, null, 2);
+            document.getElementById('output').textContent = `Generated ${parts.length} parts.\n\n${jsonStr.substring(0, 500)}...`;
+            const blob = new Blob([jsonStr], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'fru_parts.json';
+            a.click();
+            URL.revokeObjectURL(url);
+        });
+    </script>
+</body>
+</html>
