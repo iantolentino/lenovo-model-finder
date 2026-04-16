@@ -29,61 +29,64 @@
       </div>
     </div>
 
-    <!-- Model Filters -->
-    <div class="filter-section">
-      <div class="filter-label">Model</div>
-      <div class="filters">
-        <button class="filter-model active" data-model="all">All</button>
-        <button class="filter-model" data-model="X240">X240</button>
-        <button class="filter-model" data-model="X250">X250</button>
-        <button class="filter-model" data-model="X260">X260</button>
-        <button class="filter-model" data-model="X270">X270</button>
+    <!-- Dropdown Filters Section -->
+    <div class="dropdown-row">
+      <!-- Model Dropdown -->
+      <div class="dropdown-group">
+        <div class="filter-label">Model</div>
+        <select id="modelSelect" class="filter-select">
+          <option value="all">All Models</option>
+          <option value="X240">X240</option>
+          <option value="X250">X250</option>
+          <option value="X260">X260</option>
+          <option value="X270">X270</option>
+        </select>
       </div>
-    </div>
 
-    <!-- Category Filters - Using exact names from your data -->
-    <div class="filter-section">
-      <div class="filter-label">Category</div>
-      <div class="filters">
-        <button class="filter-cat active" data-category="all">All</button>
-        <button class="filter-cat" data-category="AC ADAPTERS">AC Adapters</button>
-        <button class="filter-cat" data-category="BATTERIES">Batteries</button>
-        <button class="filter-cat" data-category="MEMORY">Memory</button>
-        <button class="filter-cat" data-category="MEMORY DIMM'S">Memory DIMMs</button>
-        <button class="filter-cat" data-category="WIRELESS CARDS">Wireless Cards</button>
-        <button class="filter-cat" data-category="WIRELESS AND SUBCARDS">Wireless & Subcards</button>
-        <button class="filter-cat" data-category="LCD'S">LCD Panels</button>
-        <button class="filter-cat" data-category="THERMALS">Thermals</button>
-        <button class="filter-cat" data-category="THERMAL ASSEMBLIES">Thermal Assemblies</button>
-        <button class="filter-cat" data-category="SPEAKERS">Speakers</button>
-        <button class="filter-cat" data-category="KEYBOARDS">Keyboards</button>
-        <button class="filter-cat" data-category="HDD'S">Hard Drives</button>
-        <button class="filter-cat" data-category="SSD'S">SSDs</button>
-        <button class="filter-cat" data-category="PLANARS">Planars</button>
-        <button class="filter-cat" data-category="CAMERAS">Cameras</button>
-        <button class="filter-cat" data-category="CABLES">Cables</button>
-        <button class="filter-cat" data-category="LINE CORDS">Power Cords</button>
-        <button class="filter-cat" data-category="HINGES">Hinges</button>
-        <button class="filter-cat" data-category="ANTENNAS">Antennas</button>
-        <button class="filter-cat" data-category="BEZELS">Bezels</button>
-        <button class="filter-cat" data-category="BRACKETS">Brackets</button>
-        <button class="filter-cat" data-category="COVERS">Covers</button>
-        <button class="filter-cat" data-category="RECOVERY MEDIA">Recovery Media</button>
-        <button class="filter-cat" data-category="MECHANICALS">Mechanicals</button>
-        <button class="filter-cat" data-category="DOCKS">Docks</button>
-        <button class="filter-cat" data-category="DONGLES">Dongles</button>
-        <button class="filter-cat" data-category="EXTERNAL BATTERIES">External Batteries</button>
-        <button class="filter-cat" data-category="INTERNAL BATTERIES">Internal Batteries</button>
-        <button class="filter-cat" data-category="SUB CARDS">Sub Cards</button>
-        <button class="filter-cat" data-category="MISC CARDS">Misc Cards</button>
-        <button class="filter-cat" data-category="CARD READERS">Card Readers</button>
-        <button class="filter-cat" data-category="CARDS VARIOUS">Cards Various</button>
-        <button class="filter-cat" data-category="TRACKPOINT CAPS">Trackpoint Caps</button>
-        <button class="filter-cat" data-category="RUBBER FEET">Rubber Feet</button>
-        <button class="filter-cat" data-category="RUBBER KIT">Rubber Kit</button>
-        <button class="filter-cat" data-category="LABELS">Labels</button>
-        <button class="filter-cat" data-category="MICROPHONE">Microphone</button>
-        <button class="filter-cat" data-category="General">General</button>
+      <!-- Category Dropdown -->
+      <div class="dropdown-group">
+        <div class="filter-label">Category</div>
+        <select id="categorySelect" class="filter-select">
+          <option value="all">All Categories</option>
+          <option value="AC ADAPTERS">AC Adapters</option>
+          <option value="BATTERIES">Batteries</option>
+          <option value="MEMORY">Memory</option>
+          <option value="MEMORY DIMM'S">Memory DIMMs</option>
+          <option value="WIRELESS CARDS">Wireless Cards</option>
+          <option value="WIRELESS AND SUBCARDS">Wireless & Subcards</option>
+          <option value="LCD'S">LCD Panels</option>
+          <option value="THERMALS">Thermals</option>
+          <option value="THERMAL ASSEMBLIES">Thermal Assemblies</option>
+          <option value="SPEAKERS">Speakers</option>
+          <option value="KEYBOARDS">Keyboards</option>
+          <option value="HDD'S">Hard Drives</option>
+          <option value="SSD'S">SSDs</option>
+          <option value="PLANARS">Planars</option>
+          <option value="CAMERAS">Cameras</option>
+          <option value="CABLES">Cables</option>
+          <option value="LINE CORDS">Power Cords</option>
+          <option value="HINGES">Hinges</option>
+          <option value="ANTENNAS">Antennas</option>
+          <option value="BEZELS">Bezels</option>
+          <option value="BRACKETS">Brackets</option>
+          <option value="COVERS">Covers</option>
+          <option value="RECOVERY MEDIA">Recovery Media</option>
+          <option value="MECHANICALS">Mechanicals</option>
+          <option value="DOCKS">Docks</option>
+          <option value="DONGLES">Dongles</option>
+          <option value="EXTERNAL BATTERIES">External Batteries</option>
+          <option value="INTERNAL BATTERIES">Internal Batteries</option>
+          <option value="SUB CARDS">Sub Cards</option>
+          <option value="MISC CARDS">Misc Cards</option>
+          <option value="CARD READERS">Card Readers</option>
+          <option value="CARDS VARIOUS">Cards Various</option>
+          <option value="TRACKPOINT CAPS">Trackpoint Caps</option>
+          <option value="RUBBER FEET">Rubber Feet</option>
+          <option value="RUBBER KIT">Rubber Kit</option>
+          <option value="LABELS">Labels</option>
+          <option value="MICROPHONE">Microphone</option>
+          <option value="General">General</option>
+        </select>
       </div>
     </div>
 

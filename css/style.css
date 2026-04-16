@@ -11,6 +11,7 @@
     --active-bg: #000000;
     --active-text: #ffffff;
     --border-color: #dddddd;
+    --dropdown-border: #cccccc;
 }
 
 /* Dark mode - also minimalist black and white */
@@ -27,6 +28,7 @@
         --active-bg: #ffffff;
         --active-text: #000000;
         --border-color: #333333;
+        --dropdown-border: #444444;
     }
 }
 
@@ -123,7 +125,7 @@ body {
     border-color: var(--active-bg);
 }
 
-/* Filter Sections */
+/* Filter Sections - DROPDOWN STYLES */
 .filter-section {
     margin-bottom: 1.5rem;
 }
@@ -137,33 +139,46 @@ body {
     letter-spacing: 0.5px;
 }
 
-.filters {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-}
-
-.filter-model, .filter-cat {
-    background: var(--tag-bg);
-    border: 1px solid var(--border-color);
-    color: var(--text-main);
-    padding: 0.4rem 0.9rem;
-    font-size: 0.8rem;
-    cursor: pointer;
-    transition: all 0.2s ease;
+/* Dropdown select styling */
+.filter-select {
+    width: 100%;
+    max-width: 320px;
+    padding: 0.7rem 1rem;
+    font-size: 0.9rem;
     font-family: inherit;
+    background: var(--input-bg);
+    color: var(--text-main);
+    border: 1px solid var(--dropdown-border);
     border-radius: 0;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'></polyline></svg>");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    background-size: 16px;
+    transition: border-color 0.2s ease;
 }
 
-.filter-model:hover, .filter-cat:hover {
-    background: var(--hover-bg);
+.filter-select:hover {
     border-color: var(--text-main);
 }
 
-.filter-model.active, .filter-cat.active {
-    background: var(--active-bg);
-    color: var(--active-text);
-    border-color: var(--active-bg);
+.filter-select:focus {
+    outline: none;
+    border-color: var(--text-main);
+}
+
+/* Two-column layout for dropdowns */
+.dropdown-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.dropdown-group {
+    flex: 1;
+    min-width: 200px;
 }
 
 /* Results count */
@@ -274,13 +289,13 @@ footer {
         padding: 0.7rem;
     }
     
-    .filters {
-        gap: 0.4rem;
+    .filter-select {
+        max-width: 100%;
     }
     
-    .filter-model, .filter-cat {
-        padding: 0.3rem 0.7rem;
-        font-size: 0.7rem;
+    .dropdown-row {
+        flex-direction: column;
+        gap: 1rem;
     }
     
     .result-card .meta {

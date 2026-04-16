@@ -1,4 +1,4 @@
-import { debounce } from './utils.js';
+import { debounce, escapeHtml } from './utils.js';
 
 const DATA_URL = 'data/fru_parts.json';
 let allParts = [];
@@ -92,53 +92,31 @@ function renderResults(results) {
     container.appendChild(fragment);
 }
 
-function escapeHtml(str) {
-    if (!str) return '';
-    return str.replace(/[&<>]/g, function(m) {
-        if (m === '&') return '&amp;';
-        if (m === '<') return '&lt;';
-        if (m === '>') return '&gt;';
-        return m;
-    });
-}
-
 function updateResults() {
     const results = search();
     renderResults(results);
 }
 
-function setupCategoryFilters() {
-    const buttons = document.querySelectorAll('.filter-cat');
-    console.log(`Found ${buttons.length} category filter buttons`);
-    
-    buttons.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const category = btn.dataset.category;
-            console.log(`Category clicked: ${category}`);
-            
-            buttons.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            currentCategory = category;
+function setupDropdownFilters() {
+    // Setup Model Dropdown
+    const modelSelect = document.getElementById('modelSelect');
+    if (modelSelect) {
+        modelSelect.addEventListener('change', (e) => {
+            currentModel = e.target.value;
+            console.log(`Model changed to: ${currentModel}`);
             updateResults();
         });
-    });
-}
-
-function setupModelFilters() {
-    const buttons = document.querySelectorAll('.filter-model');
-    console.log(`Found ${buttons.length} model filter buttons`);
+    }
     
-    buttons.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const model = btn.dataset.model;
-            console.log(`Model clicked: ${model}`);
-            
-            buttons.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            currentModel = model;
+    // Setup Category Dropdown
+    const categorySelect = document.getElementById('categorySelect');
+    if (categorySelect) {
+        categorySelect.addEventListener('change', (e) => {
+            currentCategory = e.target.value;
+            console.log(`Category changed to: ${currentCategory}`);
             updateResults();
         });
-    });
+    }
 }
 
 function setupSearchButton() {
@@ -150,12 +128,21 @@ function setupSearchButton() {
         updateResults();
     };
     
+    // Immediate search on button click
     searchButton.addEventListener('click', performSearch);
+    
+    // Immediate search on Enter key
     searchInput.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') {
             performSearch();
         }
     });
+    
+    // Debounced search while typing (300ms delay)
+    searchInput.addEventListener('input', debounce(() => {
+        currentSearchTerm = searchInput.value;
+        updateResults();
+    }, 300));
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -165,8 +152,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return;
     }
 
-    setupModelFilters();
-    setupCategoryFilters();
+    setupDropdownFilters();
     setupSearchButton();
     
     // Initial render
