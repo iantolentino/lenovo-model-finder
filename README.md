@@ -92,6 +92,10 @@ project/
 - `js/utils.js` – helper functions (`escapeHtml`, `debounce`).
 - `data/fru_parts.json` – the FRU dataset (must be provided by the user).
 
+## UI Screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fb5b080c-bbd3-4069-8b67-749b23e8fb81" />
+
+
 ## Data Format
 
 The JSON file must contain an array of objects, each with the following properties:
