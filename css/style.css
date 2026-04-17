@@ -262,11 +262,35 @@ body {
 /* Footer */
 footer {
     margin-top: 2.5rem;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
     font-size: 0.7rem;
     color: var(--text-muted);
     border-top: 1px solid var(--border-color);
     padding-top: 1.5rem;
+}
+
+.cache-btn {
+    font-size: 0.7rem;
+    font-family: inherit;
+    background: none;
+    color: var(--text-muted);
+    border: 1px solid var(--border-color);
+    padding: 0.2rem 0.6rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.cache-btn:hover {
+    border-color: var(--text-main);
+    color: var(--text-main);
+}
+
+.cache-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
 }
 
 /* Responsive */
