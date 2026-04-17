@@ -10,99 +10,45 @@
 <body>
   <main class="app">
 
-    <!-- Header -->
     <div class="top">
       <h1>FRU</h1>
       <span class="sub">parts database</span>
     </div>
 
-    <!-- Search Section -->
     <div class="search-section">
       <div class="search-wrapper">
-        <input
-          type="text"
-          id="searchInput"
-          placeholder="Search by FRU, description, or model..."
-          autofocus
-        >
+        <input type="text" id="searchInput" placeholder="Search by FRU, description, or model..." autofocus>
         <button id="searchButton" class="search-btn">Search</button>
       </div>
     </div>
 
-    <!-- Dropdown Filters Section -->
     <div class="dropdown-row">
-      <!-- Model Dropdown -->
       <div class="dropdown-group">
         <div class="filter-label">Model</div>
         <select id="modelSelect" class="filter-select">
           <option value="all">All Models</option>
-          <option value="X240">X240</option>
-          <option value="X250">X250</option>
-          <option value="X260">X260</option>
-          <option value="X270">X270</option>
+          <!-- Populated from JSON -->
         </select>
       </div>
-
-      <!-- Category Dropdown -->
       <div class="dropdown-group">
         <div class="filter-label">Category</div>
         <select id="categorySelect" class="filter-select">
           <option value="all">All Categories</option>
-          <option value="AC ADAPTERS">AC Adapters</option>
-          <option value="BATTERIES">Batteries</option>
-          <option value="MEMORY">Memory</option>
-          <option value="MEMORY DIMM'S">Memory DIMMs</option>
-          <option value="WIRELESS CARDS">Wireless Cards</option>
-          <option value="WIRELESS AND SUBCARDS">Wireless & Subcards</option>
-          <option value="LCD'S">LCD Panels</option>
-          <option value="THERMALS">Thermals</option>
-          <option value="THERMAL ASSEMBLIES">Thermal Assemblies</option>
-          <option value="SPEAKERS">Speakers</option>
-          <option value="KEYBOARDS">Keyboards</option>
-          <option value="HDD'S">Hard Drives</option>
-          <option value="SSD'S">SSDs</option>
-          <option value="PLANARS">Planars</option>
-          <option value="CAMERAS">Cameras</option>
-          <option value="CABLES">Cables</option>
-          <option value="LINE CORDS">Power Cords</option>
-          <option value="HINGES">Hinges</option>
-          <option value="ANTENNAS">Antennas</option>
-          <option value="BEZELS">Bezels</option>
-          <option value="BRACKETS">Brackets</option>
-          <option value="COVERS">Covers</option>
-          <option value="RECOVERY MEDIA">Recovery Media</option>
-          <option value="MECHANICALS">Mechanicals</option>
-          <option value="DOCKS">Docks</option>
-          <option value="DONGLES">Dongles</option>
-          <option value="EXTERNAL BATTERIES">External Batteries</option>
-          <option value="INTERNAL BATTERIES">Internal Batteries</option>
-          <option value="SUB CARDS">Sub Cards</option>
-          <option value="MISC CARDS">Misc Cards</option>
-          <option value="CARD READERS">Card Readers</option>
-          <option value="CARDS VARIOUS">Cards Various</option>
-          <option value="TRACKPOINT CAPS">Trackpoint Caps</option>
-          <option value="RUBBER FEET">Rubber Feet</option>
-          <option value="RUBBER KIT">Rubber Kit</option>
-          <option value="LABELS">Labels</option>
-          <option value="MICROPHONE">Microphone</option>
-          <option value="General">General</option>
+          <!-- Populated from JSON -->
         </select>
       </div>
     </div>
 
-    <!-- Results count -->
     <div id="resultsCount" class="meta"></div>
-
-    <!-- Results list -->
     <div id="results" class="list"></div>
 
-    <!-- Footer -->
     <footer>
       <small>ThinkPad X240 · X250 · X260 · X270 FRU Database</small>
+      <button id="clearCacheBtn" class="cache-btn">Clear Cache</button>
     </footer>
 
   </main>
-    <script type="module" src="js/utils.js"></script>
-    <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/utils.js"></script>
+  <script type="module" src="js/app.js"></script>
 </body>
 </html>
